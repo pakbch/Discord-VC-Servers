@@ -1,2686 +1,2360 @@
 # Discord-VC-Servers
 All Discord Vc Servers
 
-# LIST
+# SERVER | IP
 ```
-discord.media
-us-east598.discord.media
-us-south974.discord.media
-india596.discord.media
-eu-west169.discord.media
-singapore968.discord.media
-eu-west86.discord.media
-eu-central679.discord.media
-singapore593.discord.media
-singapore202.discord.media
-india234.discord.media
-us-east136.discord.media
-eu-central115.discord.media
-eu-west130.discord.media
-eu-central5157.discord.media
-eu-central7155.discord.media
-brazil124.discord.media
-us-east2213.discord.media
-us-central1564.discord.media
-us-central4736.discord.media
-hongkong47.discord.media
-us-south5238.discord.media
-us-south4733.discord.media
-eu-central704.discord.media
-india10005.discord.media
-us-east9383.discord.media
-us-east3168.discord.media
-us-east9544.discord.media
-us-east954.discord.media
-us-east4075.discord.media
-eu-central139.discord.media
-eu-central7241.discord.media
-eu-central1205.discord.media
-eu-central4336.discord.media
-india10000.discord.media
-eu-central268.discord.media
-eu-central258.discord.media
-us-south8168.discord.media
-us-east9613.discord.media
-hongkong5389.discord.media
-hongkong2874.discord.media
-hongkong8969.discord.media
-hongkong1957.discord.media
-hongkong1113.discord.media
-hongkong6019.discord.media
-hongkong8750.discord.media
-hongkong8243.discord.media
-hongkong8975.discord.media
-hongkong8985.discord.media
-brazil627.discord.media
-brazil795.discord.media
-brazil184.discord.media
-russia324.discord.media
-eu-central485.discord.media
-eu-central4352.discord.media
-us-east6333.discord.media
-us-east428.discord.media
-us-east511.discord.media
-singapore641.discord.media
-eu-central717.discord.media
-brazil380.discord.media
-eu-central795.discord.media
-eu-central8582.discord.media
-hongkong422.discord.media
-eu-central7757.discord.media
-singapore2462.discord.media
-newark4656.discord.media
-india6099.discord.media
-brazil6607.discord.media
-brazil1069.discord.media
-brazil6973.discord.media
-brazil4995.discord.media
-brazil1545.discord.media
-russia259.discord.media
-southafrica996.discord.media
-eu-central692.discord.media
-brazil871.discord.media
-brazil701.discord.media
-brazil315.discord.media
-us-south7418.discord.media
-us-south6311.discord.media
-eu-central247.discord.media
-eu-central702.discord.media
-eu-central98.discord.media
-brazil351.discord.media
-brazil348.discord.media
-eu-central4138.discord.media
-eu-central437.discord.media
-eu-central950.discord.media
-india5676.discord.media
-us-east3937.discord.media
-eu-central376.discord.media
-eu-central405.discord.media
-eu-central6509.discord.media
-milan6404.discord.media
-eu-central954.discord.media
-eu-central6494.discord.media
-eu-central854.discord.media
-eu-central5962.discord.media
-russia3575.discord.media
-hongkong1377.discord.media
-eu-central5101.discord.media
-hongkong2584.discord.media
-hongkong2995.discord.media
-hongkong1244.discord.media
-brazil2984.discord.media
-russia815.discord.media
-hongkong7298.discord.media
-dubai463.discord.media
-singapore9660.discord.media
-us-central4548.discord.media
-us-east999.discord.media
-eu-central26.discord.media
-brazil10019.discord.media
-brazil1124.discord.media
-brazil767.discord.media
-brazil237.discord.media
-brazil461.discord.media
-brazil760.discord.media
-brazil543.discord.media
-brazil550.discord.media
-us-central934.discord.media
-eu-central2363.discord.media
-singapore1173.discord.media
-singapore7563.discord.media
-hongkong962.discord.media
-russia975.discord.media
-brazil946.discord.media
-eu-central5346.discord.media
-eu-central6746.discord.media
-india6202.discord.media
-india5126.discord.media
-india2469.discord.media
-us-central9043.discord.media
-eu-central5295.discord.media
-santiago1608.discord.media
-us-west472.discord.media
-eu-central6326.discord.media
-atlanta5983.discord.media
-hongkong3327.discord.media
-hongkong8599.discord.media
-hongkong8790.discord.media
-hongkong4780.discord.media
-hongkong3218.discord.media
-hongkong4070.discord.media
-hongkong4942.discord.media
-eu-central458.discord.media
-eu-central84.discord.media
-eu-central5593.discord.media
-brazil119.discord.media
-eu-central765.discord.media
-us-south5895.discord.media
-us-south5554.discord.media
-eu-central6109.discord.media
-us-east6400.discord.media
-singapore466.discord.media
-us-east3716.discord.media
-santiago7326.discord.media
-eu-central191.discord.media
-india1345.discord.media
-singapore805.discord.media
-st-pete9713.discord.media
-us-east407.discord.media
-hongkong2220.discord.media
-us-south6634.discord.media
-us-central6065.discord.media
-eu-central2748.discord.media
-eu-central8059.discord.media
-eu-central479.discord.media
-eu-central8114.discord.media
-us-central8644.discord.media
-us-east738.discord.media
-eu-central9282.discord.media
-russia4659.discord.media
-singapore250.discord.media
-russia35.discord.media
-latency.discord.media
-us-east5876.discord.media
-us-central3674.discord.media
-india517.discord.media
-brazil933.discord.media
-eu-central8511.discord.media
-dubai9485.discord.media
-brazil4348.discord.media
-us-west7857.discord.media
-eu-central770.discord.media
-hongkong2519.discord.media
-eu-central723.discord.media
-hongkong3901.discord.media
-us-east590.discord.media
-hongkong7067.discord.media
-hongkong7537.discord.media
-eu-west582.discord.media
-hongkong2232.discord.media
-hongkong1918.discord.media
-us-south259.discord.media
-us-central303.discord.media
-hongkong95.discord.media
-hongkong3490.discord.media
-us-west419.discord.media
-us-east94.discord.media
-hongkong5373.discord.media
-hongkong7638.discord.media
-singapore537.discord.media
-hongkong8776.discord.media
-us-south732.discord.media
-us-east5.discord.media
-hongkong685.discord.media
-us-south366.discord.media
-hongkong8770.discord.media
-us-east75.discord.media
-hongkong8677.discord.media
-us-east995.discord.media
-hongkong9641.discord.media
-brazil84.discord.media
-eu-west12.discord.media
-us-central914.discord.media
-hongkong4100.discord.media
-us-central479.discord.media
-hongkong7973.discord.media
-india571.discord.media
-singapore769.discord.media
-eu-west461.discord.media
-eu-central677.discord.media
-singapore803.discord.media
-eu-central101.discord.media
-eu-central936.discord.media
-eu-central5736.discord.media
-us-central755.discord.media
-eu-west78.discord.media
-us-east6112.discord.media
-eu-central126.discord.media
-us-east773.discord.media
-eu-central792.discord.media
-us-east5555.discord.media
-eu-central811.discord.media
-brazil642.discord.media
-brazil3.discord.media
-us-west685.discord.media
-us-central423.discord.media
-eu-central3133.discord.media
-hongkong3392.discord.media
-us-east626.discord.media
-us-east934.discord.media
-atlanta5004.discord.media
-russia417.discord.media
-eu-west423.discord.media
-hongkong241.discord.media
-eu-central4215.discord.media
-eu-central392.discord.media
-eu-central4.discord.media
-eu-west214.discord.media
-santiago3940.discord.media
-us-central32.discord.media
-us-east6849.discord.media
-us-west552.discord.media
-us-east7082.discord.media
-us-east101.discord.media
-us-west445.discord.media
-eu-central8610.discord.media
-us-central913.discord.media
-eu-central4699.discord.media
-santiago2431.discord.media
-us-central194.discord.media
-brazil3652.discord.media
-us-east811.discord.media
-brazil5108.discord.media
-us-south278.discord.media
-us-east890.discord.media
-brazil68.discord.media
-rotterdam4631.discord.media
-eu-central645.discord.media
-us-east8506.discord.media
-eu-central64.discord.media
-us-east614.discord.media
-eu-central108.discord.media
-us-central869.discord.media
-eu-central5607.discord.media
-sydney9204.discord.media
-russia520.discord.media
-us-central44.discord.media
-santiago3414.discord.media
-brazil50.discord.media
-santiago7523.discord.media
-singapore503.discord.media
-us-east6701.discord.media
-russia273.discord.media
-india3631.discord.media
-brazil30.discord.media
-india4120.discord.media
-india1643.discord.media
-us-east342.discord.media
-russia72.discord.media
-dubai167.discord.media
-singapore19.discord.media
-eu-central2.discord.media
-brazil104.discord.media
-hongkong6071.discord.media
-hongkong4639.discord.media
-russia937.discord.media
-santiago7157.discord.media
-eu-central685.discord.media
-us-south810.discord.media
-us-central71.discord.media
-us-central149.discord.media
-russia896.discord.media
-russia78.discord.media
-us-central726.discord.media
-us-west756.discord.media
-us-west126.discord.media
-eu-central693.discord.media
-us-east108.discord.media
-us-west129.discord.media
-eu-central676.discord.media
-singapore916.discord.media
-eu-central655.discord.media
-us-west326.discord.media
-singapore601.discord.media
-us-central620.discord.media
-us-central894.discord.media
-us-central274.discord.media
-us-central640.discord.media
-brazil972.discord.media
-us-east10.discord.media
-russia73.discord.media
-us-east497.discord.media
-us-central421.discord.media
-brazil77.discord.media
-eu-central725.discord.media
-us-south249.discord.media
-singapore795.discord.media
-eu-west791.discord.media
-eu-central140.discord.media
-russia96.discord.media
-eu-central844.discord.media
-japan599.discord.media
-us-west422.discord.media
-russia130.discord.media
-us-east337.discord.media
-vip-us-east4.discord.media
-us-east39.discord.media
-us-east31.discord.media
-eu-central959.discord.media
-us-west277.discord.media
-us-south362.discord.media
-eu-central398.discord.media
-eu-central1.discord.media
-us-central816.discord.media
-russia260.discord.media
-eu-central962.discord.media
-eu-central967.discord.media
-us-west105.discord.media
-us-central711.discord.media
-eu-west845.discord.media
-brazil695.discord.media
-russia555.discord.media
-us-south975.discord.media
-eu-west50.discord.media
-us-central82.discord.media
-eu-central252.discord.media
-russia17.discord.media
-russia408.discord.media
-us-east247.discord.media
-eu-west776.discord.media
-us-central242.discord.media
-eu-central612.discord.media
-us-south29.discord.media
-eu-central449.discord.media
-us-central767.discord.media
-us-west986.discord.media
-russia743.discord.media
-us-west873.discord.media
-eu-west71.discord.media
-us-east948.discord.media
-us-east613.discord.media
-us-west849.discord.media
-eu-central397.discord.media
-us-west83.discord.media
-us-south266.discord.media
-eu-central671.discord.media
-eu-west245.discord.media
-us-central824.discord.media
-eu-west942.discord.media
-us-west725.discord.media
-eu-west405.discord.media
-russia341.discord.media
-us-east708.discord.media
-eu-west59.discord.media
-eu-central71.discord.media
-us-south711.discord.media
-us-central659.discord.media
-brazil27.discord.media
-us-central551.discord.media
-us-west131.discord.media
-eu-central61.discord.media
-us-south749.discord.media
-japan39.discord.media
-eu-central137.discord.media
-eu-central761.discord.media
-us-east449.discord.media
-us-central958.discord.media
-singapore155.discord.media
-singapore886.discord.media
-us-central344.discord.media
-eu-central871.discord.media
-us-central441.discord.media
-us-east981.discord.media
-eu-west410.discord.media
-eu-west836.discord.media
-russia363.discord.media
-us-west937.discord.media
-us-east469.discord.media
-singapore53.discord.media
-best.discord.media
-us-east661.discord.media
-eu-west864.discord.media
-eu-west110.discord.media
-us-east208.discord.media
-russia483.discord.media
-us-east6.discord.media
-us-east573.discord.media
-russia406.discord.media
-us-central897.discord.media
-us-east739.discord.media
-eu-west422.discord.media
-eu-central30.discord.media
-us-south850.discord.media
-russia671.discord.media
-eu-central941.discord.media
-us-east144.discord.media
-us-east499.discord.media
-us-west777.discord.media
-us-central412.discord.media
-us-south69.discord.media
-india75.discord.media
-us-central684.discord.media
-us-west518.discord.media
-us-west567.discord.media
-russia886.discord.media
-us-central56.discord.media
-india91.discord.media
-us-central660.discord.media
-us-south990.discord.media
-us-east246.discord.media
-us-east741.discord.media
-us-south150.discord.media
-us-south373.discord.media
-russia424.discord.media
-eu-central420.discord.media
-eu-central374.discord.media
-russia268.discord.media
-us-south410.discord.media
-hongkong42.discord.media
-hongkong87.discord.media
-russia269.discord.media
-eu-central714.discord.media
-japan23.discord.media
-vip-us-west1.discord.media
-eu-central230.discord.media
-hongkong13.discord.media
-brazil91.discord.media
-us-west47.discord.media
-us-west644.discord.media
-eu-west236.discord.media
-eu-central467.discord.media
-us-central547.discord.media
-eu-west270.discord.media
-us-west667.discord.media
-brazil0.discord.media
-singapore572.discord.media
-eu-central450.discord.media
-us-east72.discord.media
-us-east58.discord.media
-us-central791.discord.media
-eu-west393.discord.media
-us-central586.discord.media
-us-south633.discord.media
-us-central258.discord.media
-eu-central44.discord.media
-us-east12.discord.media
-eu-central475.discord.media
-us-west772.discord.media
-us-south454.discord.media
-us-east545.discord.media
-eu-central642.discord.media
-us-east280.discord.media
-russia623.discord.media
-us-central72.discord.media
-us-west485.discord.media
-eu-west595.discord.media
-us-west454.discord.media
-eu-west135.discord.media
-russia872.discord.media
-us-east19.discord.media
-us-east792.discord.media
-russia361.discord.media
-us-south883.discord.media
-eu-central333.discord.media
-us-west812.discord.media
-eu-central201.discord.media
-hongkong75.discord.media
-eu-central923.discord.media
-eu-central519.discord.media
-eu-central136.discord.media
-eu-central903.discord.media
-us-west984.discord.media
-us-east674.discord.media
-eu-west449.discord.media
-us-south204.discord.media
-eu-west0.discord.media
-eu-west575.discord.media
-eu-central307.discord.media
-us-central851.discord.media
-eu-west8.discord.media
-us-east608.discord.media
-eu-central69.discord.media
-eu-central833.discord.media
-eu-central745.discord.media
-us-south300.discord.media
-eu-central208.discord.media
-sydney23.discord.media
-eu-central419.discord.media
-us-south620.discord.media
-us-east538.discord.media
-singapore309.discord.media
-japan259.discord.media
-eu-central13.discord.media
-russia774.discord.media
-russia351.discord.media
-russia193.discord.media
-us-east67.discord.media
-us-east366.discord.media
-hongkong23.discord.media
-russia371.discord.media
-eu-central730.discord.media
-russia183.discord.media
-eu-west62.discord.media
-us-east92.discord.media
-us-east673.discord.media
-eu-west854.discord.media
-us-east220.discord.media
-us-east316.discord.media
-us-east177.discord.media
-russia239.discord.media
-russia851.discord.media
-japan54.discord.media
-us-west769.discord.media
-eu-west621.discord.media
-us-south408.discord.media
-eu-west375.discord.media
-brazil59.discord.media
-us-south404.discord.media
-us-east207.discord.media
-us-central137.discord.media
-us-east956.discord.media
-singapore830.discord.media
-us-east552.discord.media
-eu-west880.discord.media
-eu-central894.discord.media
-us-east71.discord.media
-us-south698.discord.media
-eu-central145.discord.media
-us-west244.discord.media
-eu-west254.discord.media
-us-east895.discord.media
-russia219.discord.media
-us-south197.discord.media
-us-east780.discord.media
-singapore41.discord.media
-us-central673.discord.media
-eu-central296.discord.media
-us-south806.discord.media
-eu-west285.discord.media
-us-east978.discord.media
-us-west239.discord.media
-eu-central804.discord.media
-us-east376.discord.media
-eu-central681.discord.media
-us-east57.discord.media
-eu-west222.discord.media
-us-east296.discord.media
-singapore74.discord.media
-us-west752.discord.media
-us-central406.discord.media
-eu-central514.discord.media
-eu-central15.discord.media
-vip-us-west2.discord.media
-us-south384.discord.media
-us-central472.discord.media
-us-east480.discord.media
-us-central177.discord.media
-eu-central340.discord.media
-eu-central583.discord.media
-eu-central60.discord.media
-russia338.discord.media
-brazil778.discord.media
-us-west347.discord.media
-us-central100.discord.media
-eu-west324.discord.media
-eu-central359.discord.media
-russia421.discord.media
-eu-central159.discord.media
-singapore52.discord.media
-us-central877.discord.media
-us-south569.discord.media
-us-east279.discord.media
-us-south632.discord.media
-russia441.discord.media
-eu-central680.discord.media
-eu-west241.discord.media
-eu-central394.discord.media
-russia456.discord.media
-us-east609.discord.media
-us-central148.discord.media
-eu-central176.discord.media
-us-east86.discord.media
-russia452.discord.media
-eu-central361.discord.media
-us-central676.discord.media
-us-east731.discord.media
-us-south564.discord.media
-us-central922.discord.media
-eu-central789.discord.media
-us-east941.discord.media
-us-central496.discord.media
-us-west640.discord.media
-us-west101.discord.media
-japan894.discord.media
-us-central153.discord.media
-us-east834.discord.media
-us-east331.discord.media
-eu-central882.discord.media
-eu-central840.discord.media
-eu-central27.discord.media
-russia431.discord.media
-us-east709.discord.media
-us-central345.discord.media
-us-central370.discord.media
-eu-west901.discord.media
-us-east181.discord.media
-eu-west40.discord.media
-eu-central564.discord.media
-russia658.discord.media
-us-central812.discord.media
-us-central646.discord.media
-russia223.discord.media
-us-south641.discord.media
-us-east55.discord.media
-us-east414.discord.media
-eu-west529.discord.media
-eu-central75.discord.media
-us-east807.discord.media
-us-east702.discord.media
-us-east862.discord.media
-us-east120.discord.media
-us-east413.discord.media
-us-east725.discord.media
-us-west155.discord.media
-us-west215.discord.media
-eu-central901.discord.media
-singapore674.discord.media
-eu-west4.discord.media
-us-east549.discord.media
-us-west691.discord.media
-us-east52.discord.media
-russia775.discord.media
-eu-west155.discord.media
-us-central928.discord.media
-us-east881.discord.media
-eu-central632.discord.media
-eu-west33.discord.media
-eu-central780.discord.media
-us-east686.discord.media
-russia233.discord.media
-us-east458.discord.media
-us-east506.discord.media
-us-west922.discord.media
-russia226.discord.media
-us-central516.discord.media
-eu-west280.discord.media
-us-west561.discord.media
-eu-central686.discord.media
-us-west138.discord.media
-us-central269.discord.media
-us-east36.discord.media
-us-central546.discord.media
-us-central190.discord.media
-us-west619.discord.media
-eu-central536.discord.media
-eu-central396.discord.media
-eu-west17.discord.media
-us-west969.discord.media
-us-west528.discord.media
-us-central699.discord.media
-eu-central74.discord.media
-us-south52.discord.media
-singapore876.discord.media
-us-west162.discord.media
-eu-west54.discord.media
-us-east935.discord.media
-russia904.discord.media
-us-east875.discord.media
-us-east166.discord.media
-eu-central135.discord.media
-eu-west343.discord.media
-us-south600.discord.media
-eu-west402.discord.media
-sydney8.discord.media
-eu-west319.discord.media
-us-central549.discord.media
-eu-central587.discord.media
-eu-central889.discord.media
-us-central969.discord.media
-india7.discord.media
-japan8.discord.media
-russia786.discord.media
-brazil987.discord.media
-sydney49.discord.media
-us-east412.discord.media
-japan19.discord.media
-russia339.discord.media
-brazil72.discord.media
-singapore101.discord.media
-eu-west452.discord.media
-us-south127.discord.media
-us-central728.discord.media
-us-west103.discord.media
-us-west217.discord.media
-eu-central278.discord.media
-eu-central758.discord.media
-us-west200.discord.media
-us-east727.discord.media
-eu-west235.discord.media
-us-central161.discord.media
-hongkong11.discord.media
-us-east527.discord.media
-eu-central266.discord.media
-vip-us-east3.discord.media
-russia473.discord.media
-singapore214.discord.media
-us-south502.discord.media
-us-west730.discord.media
-russia285.discord.media
-russia373.discord.media
-us-east520.discord.media
-us-central947.discord.media
-us-central288.discord.media
-eu-central70.discord.media
-eu-west99.discord.media
-eu-west441.discord.media
-eu-west401.discord.media
-hongkong49.discord.media
-eu-central974.discord.media
-russia293.discord.media
-us-west234.discord.media
-eu-central563.discord.media
-us-west81.discord.media
-eu-central740.discord.media
-hongkong92.discord.media
-us-east418.discord.media
-eu-west856.discord.media
-singapore62.discord.media
-us-east338.discord.media
-eu-central971.discord.media
-singapore619.discord.media
-eu-central3.discord.media
-us-central257.discord.media
-us-east911.discord.media
-us-central214.discord.media
-us-east795.discord.media
-us-east710.discord.media
-singapore780.discord.media
-eu-west355.discord.media
-eu-central520.discord.media
-eu-central369.discord.media
-us-south196.discord.media
-us-east373.discord.media
-eu-west19.discord.media
-eu-west398.discord.media
-us-east26.discord.media
-us-south832.discord.media
-us-central37.discord.media
-us-central162.discord.media
-us-central729.discord.media
-us-south838.discord.media
-us-east553.discord.media
-eu-central34.discord.media
-russia28.discord.media
-sydney9.discord.media
-russia118.discord.media
-eu-west51.discord.media
-eu-central429.discord.media
-brazil616.discord.media
-eu-central682.discord.media
-russia40.discord.media
-russia500.discord.media
-eu-central468.discord.media
-singapore615.discord.media
-eu-central58.discord.media
-russia961.discord.media
-russia16.discord.media
-us-west994.discord.media
-us-east62.discord.media
-singapore515.discord.media
-russia726.discord.media
-russia795.discord.media
-us-central176.discord.media
-us-south979.discord.media
-eu-central762.discord.media
-us-east115.discord.media
-singapore457.discord.media
-russia53.discord.media
-us-south67.discord.media
-us-west174.discord.media
-us-west305.discord.media
-eu-west734.discord.media
-us-central17.discord.media
-us-central657.discord.media
-us-south507.discord.media
-us-west489.discord.media
-eu-central575.discord.media
-brazil66.discord.media
-eu-central918.discord.media
-eu-central311.discord.media
-eu-west890.discord.media
-eu-central41.discord.media
-eu-central343.discord.media
-eu-central906.discord.media
-us-east756.discord.media
-hongkong160.discord.media
-us-east813.discord.media
-us-west878.discord.media
-japan110.discord.media
-us-west481.discord.media
-eu-west573.discord.media
-hongkong387.discord.media
-us-west125.discord.media
-japan158.discord.media
-eu-central314.discord.media
-russia305.discord.media
-hongkong53.discord.media
-hongkong123.discord.media
-hongkong461.discord.media
-sydney400.discord.media
-singapore841.discord.media
-russia874.discord.media
-eu-west689.discord.media
-japan738.discord.media
-sydney902.discord.media
-us-south653.discord.media
-us-south691.discord.media
-japan909.discord.media
-japan703.discord.media
-japan460.discord.media
-singapore905.discord.media
-brazil298.discord.media
-japan906.discord.media
-eu-central448.discord.media
-eu-central620.discord.media
-eu-central181.discord.media
-russia474.discord.media
-eu-central689.discord.media
-us-west107.discord.media
-eu-central316.discord.media
-hongkong891.discord.media
-eu-central99.discord.media
-us-west654.discord.media
-us-west773.discord.media
-japan536.discord.media
-brazil441.discord.media
-eu-central122.discord.media
-japan560.discord.media
-eu-central402.discord.media
-eu-central935.discord.media
-hongkong927.discord.media
-us-central8.discord.media
-eu-central567.discord.media
-hongkong881.discord.media
-hongkong997.discord.media
-brazil666.discord.media
-eu-west41.discord.media
-russia144.discord.media
-eu-central978.discord.media
-eu-central812.discord.media
-us-south911.discord.media
-russia4.discord.media
-singapore359.discord.media
-eu-central498.discord.media
-us-east955.discord.media
-us-central329.discord.media
-eu-central574.discord.media
-eu-west972.discord.media
-us-east185.discord.media
-japan332.discord.media
-us-east928.discord.media
-japan728.discord.media
-us-east485.discord.media
-us-west261.discord.media
-hongkong63.discord.media
-eu-central982.discord.media
-hongkong902.discord.media
-eu-central186.discord.media
-japan400.discord.media
-us-east752.discord.media
-brazil555.discord.media
-hongkong419.discord.media
-sydney498.discord.media
-eu-west515.discord.media
-us-west364.discord.media
-us-west607.discord.media
-russia703.discord.media
-hongkong966.discord.media
-eu-central185.discord.media
-us-west728.discord.media
-brazil997.discord.media
-singapore405.discord.media
-us-central415.discord.media
-us-east361.discord.media
-us-west76.discord.media
-south-korea976.discord.media
-eu-central433.discord.media
-us-east442.discord.media
-brazil546.discord.media
-hongkong367.discord.media
-us-east424.discord.media
-us-south376.discord.media
-us-east704.discord.media
-eu-central785.discord.media
-japan772.discord.media
-sydney113.discord.media
-us-west961.discord.media
-japan107.discord.media
-eu-central654.discord.media
-japan426.discord.media
-eu-central287.discord.media
-eu-central187.discord.media
-hongkong484.discord.media
-eu-central188.discord.media
-us-central229.discord.media
-russia570.discord.media
-hongkong151.discord.media
-us-central529.discord.media
-hongkong890.discord.media
-singapore286.discord.media
-us-west166.discord.media
-eu-central828.discord.media
-hongkong892.discord.media
-us-west222.discord.media
-japan621.discord.media
-eu-central141.discord.media
-hongkong155.discord.media
-india715.discord.media
-eu-central57.discord.media
-us-east272.discord.media
-hongkong776.discord.media
-eu-west627.discord.media
-sydney768.discord.media
-brazil153.discord.media
-eu-central239.discord.media
-russia220.discord.media
-hongkong647.discord.media
-hongkong733.discord.media
-eu-central879.discord.media
-india977.discord.media
-japan579.discord.media
-eu-central992.discord.media
-us-east698.discord.media
-eu-central624.discord.media
-us-west164.discord.media
-us-east27.discord.media
-eu-central138.discord.media
-singapore883.discord.media
-eu-central542.discord.media
-us-west767.discord.media
-eu-central611.discord.media
-us-east324.discord.media
-brazil209.discord.media
-eu-west546.discord.media
-japan138.discord.media
-hongkong811.discord.media
-hongkong517.discord.media
-eu-central174.discord.media
-singapore445.discord.media
-us-west514.discord.media
-us-west544.discord.media
-us-east500.discord.media
-us-west510.discord.media
-eu-central744.discord.media
-hongkong552.discord.media
-us-west254.discord.media
-us-west450.discord.media
-us-west584.discord.media
-us-central807.discord.media
-hongkong568.discord.media
-us-west281.discord.media
-us-west471.discord.media
-us-south305.discord.media
-hongkong503.discord.media
-us-east182.discord.media
-eu-central772.discord.media
-us-west45.discord.media
-eu-central887.discord.media
-us-south337.discord.media
-us-west876.discord.media
-us-west68.discord.media
-hongkong210.discord.media
-eu-central202.discord.media
-us-east233.discord.media
-eu-central142.discord.media
-eu-central283.discord.media
-japan430.discord.media
-hongkong242.discord.media
-hongkong775.discord.media
-russia109.discord.media
-us-west0.discord.media
-japan556.discord.media
-japan222.discord.media
-us-west415.discord.media
-japan538.discord.media
-eu-central279.discord.media
-japan166.discord.media
-russia52.discord.media
-eu-central864.discord.media
-singapore355.discord.media
-eu-central453.discord.media
-us-west369.discord.media
-eu-central480.discord.media
-japan606.discord.media
-eu-central362.discord.media
-eu-central280.discord.media
-us-east646.discord.media
-japan21.discord.media
-eu-central543.discord.media
-eu-central391.discord.media
-us-west705.discord.media
-us-central432.discord.media
-japan854.discord.media
-eu-central929.discord.media
-japan499.discord.media
-south-korea682.discord.media
-us-south9.discord.media
-us-west87.discord.media
-russia389.discord.media
-eu-central969.discord.media
-us-west750.discord.media
-us-east422.discord.media
-japan520.discord.media
-eu-central389.discord.media
-eu-central150.discord.media
-eu-central102.discord.media
-japan701.discord.media
-hongkong885.discord.media
-eu-central627.discord.media
-us-south37.discord.media
-us-west27.discord.media
-sydney744.discord.media
-hongkong553.discord.media
-eu-central111.discord.media
-eu-central522.discord.media
-eu-central581.discord.media
-eu-central817.discord.media
-japan648.discord.media
-eu-central502.discord.media
-eu-central616.discord.media
-eu-central217.discord.media
-japan762.discord.media
-eu-west975.discord.media
-eu-central601.discord.media
-hongkong116.discord.media
-japan172.discord.media
-japan711.discord.media
-japan277.discord.media
-hongkong98.discord.media
-us-east323.discord.media
-sydney118.discord.media
-japan725.discord.media
-japan921.discord.media
-us-west214.discord.media
-us-east2.discord.media
-eu-central888.discord.media
-sydney994.discord.media
-eu-central683.discord.media
-japan666.discord.media
-eu-central73.discord.media
-us-west495.discord.media
-eu-west179.discord.media
-brazil583.discord.media
-hongkong183.discord.media
-eu-central486.discord.media
-us-central302.discord.media
-southafrica315.discord.media
-sydney818.discord.media
-japan220.discord.media
-eu-central987.discord.media
-japan861.discord.media
-hongkong764.discord.media
-sydney557.discord.media
-singapore651.discord.media
-india251.discord.media
-us-west56.discord.media
-brazil385.discord.media
-us-east375.discord.media
-sydney783.discord.media
-us-west382.discord.media
-us-west365.discord.media
-japan244.discord.media
-us-west720.discord.media
-us-central183.discord.media
-eu-central338.discord.media
-us-west657.discord.media
-us-west407.discord.media
-brazil166.discord.media
-us-west909.discord.media
-singapore330.discord.media
-eu-central881.discord.media
-eu-central55.discord.media
-singapore194.discord.media
-hongkong162.discord.media
-eu-central411.discord.media
-brazil110.discord.media
-us-west783.discord.media
-japan167.discord.media
-eu-central81.discord.media
-us-east423.discord.media
-us-east206.discord.media
-brazil966.discord.media
-us-west608.discord.media
-us-west668.discord.media
-singapore396.discord.media
-south-korea21.discord.media
-us-west946.discord.media
-hongkong338.discord.media
-japan196.discord.media
-india392.discord.media
-us-west165.discord.media
-eu-west763.discord.media
-japan197.discord.media
-hongkong955.discord.media
-hongkong666.discord.media
-eu-central562.discord.media
-us-east900.discord.media
-us-south97.discord.media
-japan203.discord.media
-hongkong959.discord.media
-us-west811.discord.media
-japan732.discord.media
-us-west600.discord.media
-eu-central550.discord.media
-us-west704.discord.media
-us-central139.discord.media
-russia444.discord.media
-eu-central900.discord.media
-us-west474.discord.media
-eu-central183.discord.media
-eu-central483.discord.media
-eu-central878.discord.media
-japan745.discord.media
-us-central611.discord.media
-singapore541.discord.media
-eu-central88.discord.media
-russia954.discord.media
-eu-west180.discord.media
-eu-central83.discord.media
-brazil850.discord.media
-us-east805.discord.media
-hongkong270.discord.media
-eu-central38.discord.media
-eu-central955.discord.media
-us-west457.discord.media
-singapore618.discord.media
-hongkong703.discord.media
-us-south976.discord.media
-eu-central771.discord.media
-japan361.discord.media
-eu-central293.discord.media
-eu-west481.discord.media
-japan232.discord.media
-eu-central972.discord.media
-sydney135.discord.media
-us-south755.discord.media
-eu-central285.discord.media
-us-west118.discord.media
-hongkong384.discord.media
-hongkong525.discord.media
-eu-central572.discord.media
-brazil254.discord.media
-russia490.discord.media
-eu-central687.discord.media
-japan422.discord.media
-japan378.discord.media
-japan442.discord.media
-us-west987.discord.media
-us-west907.discord.media
-hongkong434.discord.media
-japan884.discord.media
-russia901.discord.media
-us-east672.discord.media
-southafrica621.discord.media
-us-west338.discord.media
-hongkong789.discord.media
-eu-central388.discord.media
-russia253.discord.media
-eu-central942.discord.media
-eu-central482.discord.media
-us-west955.discord.media
-us-central525.discord.media
-us-west337.discord.media
-sydney105.discord.media
-brazil156.discord.media
-us-west588.discord.media
-brazil480.discord.media
-us-central860.discord.media
-us-west282.discord.media
-hongkong800.discord.media
-eu-central820.discord.media
-us-west432.discord.media
-eu-west140.discord.media
-us-east998.discord.media
-japan201.discord.media
-us-west690.discord.media
-eu-central33.discord.media
-eu-west271.discord.media
-japan871.discord.media
-eu-central489.discord.media
-us-east994.discord.media
-eu-central5.discord.media
-hongkong273.discord.media
-us-west539.discord.media
-russia343.discord.media
-eu-west878.discord.media
-eu-central46.discord.media
-us-east151.discord.media
-eu-west274.discord.media
-eu-central19.discord.media
-japan323.discord.media
-brazil754.discord.media
-japan872.discord.media
-eu-central93.discord.media
-eu-central178.discord.media
-singapore532.discord.media
-singapore860.discord.media
-eu-central626.discord.media
-us-east959.discord.media
-hongkong235.discord.media
-us-central307.discord.media
-eu-west572.discord.media
-us-east259.discord.media
-eu-central546.discord.media
-us-east355.discord.media
-us-east653.discord.media
-eu-central40.discord.media
-eu-central29.discord.media
-eu-west77.discord.media
-eu-central590.discord.media
-eu-west473.discord.media
-us-east853.discord.media
-us-east252.discord.media
-russia357.discord.media
-hongkong634.discord.media
-brazil1063.discord.media
-us-west886.discord.media
-eu-west979.discord.media
-eu-central48.discord.media
-us-west782.discord.media
-us-west787.discord.media
-us-east154.discord.media
-eu-central37.discord.media
-us-east255.discord.media
-eu-central8.discord.media
-us-west293.discord.media
-eu-central43.discord.media
-us-east554.discord.media
-eu-central95.discord.media
-eu-west7.discord.media
-eu-west877.discord.media
-us-central918.discord.media
-eu-central35.discord.media
-us-west882.discord.media
-us-east859.discord.media
-us-east758.discord.media
-eu-central14.discord.media
-russia943.discord.media
-eu-west79.discord.media
-eu-central12.discord.media
-us-east755.discord.media
-us-central13.discord.media
-us-central11.discord.media
-us-east950.discord.media
-us-east258.discord.media
-us-east759.discord.media
-eu-central412.discord.media
-hongkong278.discord.media
-eu-central92.discord.media
-us-east951.discord.media
-us-central315.discord.media
-us-east251.discord.media
-us-central219.discord.media
-eu-west438.discord.media
-us-east656.discord.media
-eu-west234.discord.media
-eu-central24.discord.media
-us-west971.discord.media
-us-west875.discord.media
-us-west970.discord.media
-eu-central36.discord.media
-us-west182.discord.media
-eu-west739.discord.media
-eu-central63.discord.media
-eu-west237.discord.media
-us-west187.discord.media
-us-west670.discord.media
-us-west185.discord.media
-us-west778.discord.media
-us-west378.discord.media
-eu-west533.discord.media
-us-west98.discord.media
-us-west7.discord.media
-us-west37.discord.media
-us-west70.discord.media
-us-west572.discord.media
-us-west770.discord.media
-us-west573.discord.media
-eu-west935.discord.media
-us-west276.discord.media
-us-west377.discord.media
-us-west178.discord.media
-eu-central65.discord.media
-eu-west534.discord.media
-us-west470.discord.media
-eu-west737.discord.media
-us-west8.discord.media
-us-west175.discord.media
-eu-west93.discord.media
-us-west84.discord.media
-eu-west535.discord.media
-us-west278.discord.media
-us-west273.discord.media
-eu-west3.discord.media
-us-west85.discord.media
-us-west836.discord.media
-eu-central68.discord.media
-us-west874.discord.media
-us-west473.discord.media
-japan414.discord.media
-eu-central66.discord.media
-japan717.discord.media
-eu-central67.discord.media
-us-west283.discord.media
-japan417.discord.media
-japan315.discord.media
-japan515.discord.media
-eu-central80.discord.media
-japan213.discord.media
-us-west680.discord.media
-us-west689.discord.media
-eu-central818.discord.media
-us-west581.discord.media
-us-west488.discord.media
-eu-central715.discord.media
-us-east41.discord.media
-eu-central317.discord.media
-us-east616.discord.media
-us-east712.discord.media
-eu-central511.discord.media
-us-east714.discord.media
-us-east419.discord.media
-us-west681.discord.media
-us-east611.discord.media
-eu-central517.discord.media
-us-east619.discord.media
-us-west780.discord.media
-eu-central718.discord.media
-us-east56.discord.media
-us-east918.discord.media
-eu-central916.discord.media
-eu-west635.discord.media
-eu-central512.discord.media
-us-central414.discord.media
-eu-central510.discord.media
-us-east513.discord.media
-us-east917.discord.media
-us-east617.discord.media
-eu-central513.discord.media
-us-east515.discord.media
-eu-central810.discord.media
-eu-central919.discord.media
-us-east415.discord.media
-eu-central59.discord.media
-eu-central711.discord.media
-eu-central910.discord.media
-us-east913.discord.media
-us-west381.discord.media
-eu-central911.discord.media
-eu-central615.discord.media
-eu-central613.discord.media
-eu-central618.discord.media
-eu-central617.discord.media
-us-east812.discord.media
-eu-central713.discord.media
-eu-west84.discord.media
-eu-west337.discord.media
-eu-central816.discord.media
-eu-west56.discord.media
-eu-west24.discord.media
-us-east952.discord.media
-us-east652.discord.media
-eu-central716.discord.media
-us-east91.discord.media
-eu-west94.discord.media
-eu-west1.discord.media
-eu-west510.discord.media
-eu-west6.discord.media
-eu-west91.discord.media
-us-east215.discord.media
-eu-central110.discord.media
-eu-west88.discord.media
-us-east118.discord.media
-eu-central119.discord.media
-eu-central116.discord.media
-us-east110.discord.media
-eu-central843.discord.media
-us-east21.discord.media
-us-east111.discord.media
-eu-central749.discord.media
-eu-central349.discord.media
-us-south661.discord.media
-japan998.discord.media
-eu-central143.discord.media
-eu-central444.discord.media
-eu-central112.discord.media
-eu-central846.discord.media
-eu-central743.discord.media
-eu-central346.discord.media
-eu-central947.discord.media
-eu-central746.discord.media
-eu-central848.discord.media
-eu-central144.discord.media
-eu-central22.discord.media
-eu-central49.discord.media
-eu-central648.discord.media
-eu-central647.discord.media
-eu-central249.discord.media
-eu-central248.discord.media
-eu-central215.discord.media
-eu-central649.discord.media
-eu-central246.discord.media
-eu-central244.discord.media
-eu-central842.discord.media
-us-east352.discord.media
-eu-central446.discord.media
-eu-central540.discord.media
-eu-central541.discord.media
-eu-central913.discord.media
-eu-central242.discord.media
-eu-central344.discord.media
-eu-central747.discord.media
-eu-central25.discord.media
-eu-central447.discord.media
-eu-central348.discord.media
-eu-central148.discord.media
-eu-central545.discord.media
-eu-central948.discord.media
-eu-central149.discord.media
-eu-central509.discord.media
-eu-central703.discord.media
-eu-central940.discord.media
-eu-central203.discord.media
-eu-central641.discord.media
-eu-central440.discord.media
-eu-central908.discord.media
-us-central348.discord.media
-eu-central403.discord.media
-eu-central849.discord.media
-eu-central303.discord.media
-eu-central606.discord.media
-eu-central944.discord.media
-eu-central802.discord.media
-eu-central902.discord.media
-eu-central211.discord.media
-eu-central207.discord.media
-eu-west175.discord.media
-eu-central956.discord.media
-eu-central801.discord.media
-us-central141.discord.media
-eu-central301.discord.media
-us-east310.discord.media
-eu-central708.discord.media
-eu-central109.discord.media
-eu-central803.discord.media
-eu-central105.discord.media
-us-central949.discord.media
-eu-central805.discord.media
-eu-central706.discord.media
-eu-central700.discord.media
-eu-central605.discord.media
-eu-central501.discord.media
-eu-central709.discord.media
-eu-central909.discord.media
-eu-central504.discord.media
-eu-central608.discord.media
-eu-central400.discord.media
-eu-central807.discord.media
-eu-central503.discord.media
-us-central443.discord.media
-eu-central505.discord.media
-eu-central904.discord.media
-eu-central20.discord.media
-eu-central304.discord.media
-russia761.discord.media
-eu-central800.discord.media
-us-west123.discord.media
-eu-central100.discord.media
-eu-central808.discord.media
-us-central742.discord.media
-us-west321.discord.media
-us-west625.discord.media
-us-west522.discord.media
-us-west626.discord.media
-us-west225.discord.media
-eu-central0.discord.media
-eu-central107.discord.media
-us-west22.discord.media
-us-west923.discord.media
-us-east53.discord.media
-us-west228.discord.media
-us-west20.discord.media
-us-west729.discord.media
-us-west229.discord.media
-us-west426.discord.media
-us-west223.discord.media
-us-west25.discord.media
-us-west122.discord.media
-us-west421.discord.media
-japan657.discord.media
-us-west824.discord.media
-singapore456.discord.media
-us-west527.discord.media
-us-west42.discord.media
-japan552.discord.media
-us-south799.discord.media
-us-west888.discord.media
-us-west723.discord.media
-us-east211.discord.media
-us-west929.discord.media
-us-south793.discord.media
-us-west2.discord.media
-japan658.discord.media
-us-west128.discord.media
-japan151.discord.media
-japan5.discord.media
-us-south392.discord.media
-us-south890.discord.media
-us-south193.discord.media
-us-south892.discord.media
-us-south897.discord.media
-us-south98.discord.media
-eu-west373.discord.media
-japan452.discord.media
-us-south590.discord.media
-us-south495.discord.media
-eu-central841.discord.media
-singapore249.discord.media
-us-south194.discord.media
-us-central318.discord.media
-us-south510.discord.media
-us-south615.discord.media
-us-south111.discord.media
-eu-central50.discord.media
-us-west475.discord.media
-singapore348.discord.media
-us-south312.discord.media
-us-south419.discord.media
-us-south518.discord.media
-sydney401.discord.media
-us-east356.discord.media
-us-east855.discord.media
-singapore743.discord.media
-singapore648.discord.media
-singapore645.discord.media
-us-south619.discord.media
-singapore740.discord.media
-sydney906.discord.media
-singapore243.discord.media
-eu-central883.discord.media
-us-central316.discord.media
-sydney805.discord.media
-singapore75.discord.media
-eu-central424.discord.media
-singapore31.discord.media
-russia306.discord.media
-russia601.discord.media
-russia702.discord.media
-russia508.discord.media
-russia806.discord.media
-russia609.discord.media
-russia808.discord.media
-us-east113.discord.media
-us-east354.discord.media
-eu-central646.discord.media
-russia902.discord.media
-russia502.discord.media
-russia507.discord.media
-russia707.discord.media
-russia805.discord.media
-southafrica579.discord.media
-us-central374.discord.media
-us-central76.discord.media
-us-central273.discord.media
-us-central70.discord.media
-eu-central549.discord.media
-us-central272.discord.media
-us-central372.discord.media
-japan754.discord.media
-us-south803.discord.media
-us-south402.discord.media
-us-central678.discord.media
-us-south908.discord.media
-russia501.discord.media
-eu-west882.discord.media
-eu-west388.discord.media
-eu-west683.discord.media
-eu-west887.discord.media
-russia374.discord.media
-eu-west589.discord.media
-russia471.discord.media
-eu-west485.discord.media
-eu-west187.discord.media
-eu-west488.discord.media
-russia779.discord.media
-us-west460.discord.media
-russia878.discord.media
-russia172.discord.media
-us-east351.discord.media
-russia578.discord.media
-us-west393.discord.media
-eu-west715.discord.media
-eu-west377.discord.media
-eu-central712.discord.media
-eu-west719.discord.media
-japan637.discord.media
-us-central240.discord.media
-japan837.discord.media
-japan236.discord.media
-japan530.discord.media
-japan930.discord.media
-japan235.discord.media
-us-central222.discord.media
-us-central624.discord.media
-russia709.discord.media
-eu-central72.discord.media
-brazil800.discord.media
-us-east116.discord.media
-us-east81.discord.media
-us-south450.discord.media
-brazil224.discord.media
-us-south453.discord.media
-us-south455.discord.media
-brazil221.discord.media
-brazil421.discord.media
-us-south355.discord.media
-brazil521.discord.media
-us-south156.discord.media
-us-south957.discord.media
-us-south152.discord.media
-brazil426.discord.media
-brazil827.discord.media
-japan737.discord.media
-japan935.discord.media
-us-east34.discord.media
-us-east68.discord.media
-japan184.discord.media
-us-east33.discord.media
-us-east44.discord.media
-us-east70.discord.media
-eu-west736.discord.media
-us-east89.discord.media
-us-east22.discord.media
-japan436.discord.media
-japan239.discord.media
-japan707.discord.media
-japan364.discord.media
-us-east83.discord.media
-japan261.discord.media
-hongkong499.discord.media
-japan205.discord.media
-us-west380.discord.media
-eu-central415.discord.media
-eu-central827.discord.media
-eu-central726.discord.media
-eu-central526.discord.media
-japan769.discord.media
-eu-central926.discord.media
-eu-central724.discord.media
-eu-central129.discord.media
-eu-central225.discord.media
-eu-central322.discord.media
-eu-central228.discord.media
-eu-central823.discord.media
-eu-central120.discord.media
-eu-central221.discord.media
-eu-central720.discord.media
-eu-central327.discord.media
-eu-central922.discord.media
-eu-central721.discord.media
-eu-central428.discord.media
-eu-central220.discord.media
-eu-central727.discord.media
-eu-central328.discord.media
-eu-central927.discord.media
-eu-central528.discord.media
-eu-central123.discord.media
-eu-central527.discord.media
-eu-central824.discord.media
-eu-central525.discord.media
-eu-central625.discord.media
-eu-central924.discord.media
-eu-central920.discord.media
-eu-central822.discord.media
-eu-central621.discord.media
-eu-central628.discord.media
-us-west67.discord.media
-us-east253.discord.media
-eu-central210.discord.media
-brazil623.discord.media
-us-south250.discord.media
-singapore501.discord.media
-eu-west771.discord.media
-singapore809.discord.media
-brazil998.discord.media
-brazil197.discord.media
-brazil497.discord.media
-brazil591.discord.media
-us-central3.discord.media
-us-east845.discord.media
-brazil899.discord.media
-brazil190.discord.media
-us-central68.discord.media
-us-east448.discord.media
-singapore59.discord.media
-us-east541.discord.media
-brazil596.discord.media
-us-east643.discord.media
-us-east142.discord.media
-singapore909.discord.media
-us-east145.discord.media
-us-east841.discord.media
-us-east244.discord.media
-us-east748.discord.media
-us-east842.discord.media
-us-east640.discord.media
-us-east242.discord.media
-us-east942.discord.media
-japan669.discord.media
-brazil992.discord.media
-eu-west690.discord.media
-eu-central741.discord.media
-us-east745.discord.media
-us-west224.discord.media
-japan665.discord.media
-us-west889.discord.media
-us-east782.discord.media
-us-central448.discord.media
-us-east47.discord.media
-us-east907.discord.media
-us-west16.discord.media
-us-east899.discord.media
-eu-central825.discord.media
-eu-central21.discord.media
-us-east157.discord.media
-eu-central298.discord.media
-us-south855.discord.media
-japan718.discord.media
-us-central5.discord.media
-eu-central47.discord.media
-russia509.discord.media
-japan462.discord.media
-us-east689.discord.media
-us-west511.discord.media
-us-west724.discord.media
-eu-central515.discord.media
-us-south115.discord.media
-eu-central949.discord.media
-us-east452.discord.media
-eu-central32.discord.media
-eu-west772.discord.media
-us-east99.discord.media
-eu-central445.discord.media
-japan863.discord.media
-eu-west756.discord.media
-eu-central734.discord.media
-eu-central39.discord.media
-eu-central54.discord.media
-us-east575.discord.media
-us-central410.discord.media
-us-west639.discord.media
-us-west66.discord.media
-eu-central270.discord.media
-eu-central585.discord.media
-eu-central589.discord.media
-eu-central387.discord.media
-eu-central487.discord.media
-eu-central584.discord.media
-eu-central688.discord.media
-eu-central385.discord.media
-eu-central891.discord.media
-eu-central796.discord.media
-eu-central880.discord.media
-eu-central384.discord.media
-eu-central292.discord.media
-eu-central698.discord.media
-eu-central597.discord.media
-eu-central690.discord.media
-eu-central991.discord.media
-eu-central896.discord.media
-eu-central386.discord.media
-eu-central986.discord.media
-eu-central290.discord.media
-eu-central491.discord.media
-eu-central886.discord.media
-eu-central286.discord.media
-eu-central586.discord.media
-eu-central782.discord.media
-eu-central184.discord.media
-eu-central190.discord.media
-eu-central988.discord.media
-eu-central793.discord.media
-eu-central195.discord.media
-eu-central299.discord.media
-eu-central694.discord.media
-eu-central395.discord.media
-eu-central593.discord.media
-eu-central996.discord.media
-eu-central196.discord.media
-eu-central989.discord.media
-eu-central997.discord.media
-eu-central281.discord.media
-eu-central497.discord.media
-eu-central295.discord.media
-us-west508.discord.media
-eu-central197.discord.media
-eu-central798.discord.media
-eu-central697.discord.media
-us-west505.discord.media
-eu-central291.discord.media
-eu-central788.discord.media
-eu-central591.discord.media
-eu-central180.discord.media
-us-west455.discord.media
-eu-central790.discord.media
-eu-central791.discord.media
-eu-central192.discord.media
-eu-central797.discord.media
-us-west203.discord.media
-eu-central787.discord.media
-us-west400.discord.media
-us-west800.discord.media
-eu-central488.discord.media
-eu-central998.discord.media
-us-west251.discord.media
-us-west504.discord.media
-eu-central993.discord.media
-us-west150.discord.media
-us-west106.discord.media
-eu-central893.discord.media
-eu-central595.discord.media
-eu-central598.discord.media
-us-west804.discord.media
-us-west850.discord.media
-eu-central182.discord.media
-eu-central892.discord.media
-us-west805.discord.media
-us-west507.discord.media
-eu-central980.discord.media
-us-west908.discord.media
-us-west956.discord.media
-us-west651.discord.media
-us-west307.discord.media
-us-west60.discord.media
-us-west104.discord.media
-us-west359.discord.media
-us-west904.discord.media
-eu-central594.discord.media
-us-west856.discord.media
-us-west30.discord.media
-us-west902.discord.media
-us-west753.discord.media
-eu-central990.discord.media
-eu-west107.discord.media
-us-west806.discord.media
-us-west501.discord.media
-us-west204.discord.media
-us-west10.discord.media
-eu-central691.discord.media
-brazil241.discord.media
-eu-central288.discord.media
-us-west401.discord.media
-brazil444.discord.media
-us-west852.discord.media
-us-west459.discord.media
-us-west355.discord.media
-us-west703.discord.media
-us-west553.discord.media
-us-west952.discord.media
-eu-central981.discord.media
-us-west453.discord.media
-us-west557.discord.media
-eu-central666.discord.media
-brazil447.discord.media
-us-west308.discord.media
-us-west209.discord.media
-us-west90.discord.media
-us-west700.discord.media
-eu-central495.discord.media
-us-west503.discord.media
-us-west252.discord.media
-eu-central390.discord.media
-us-west351.discord.media
-brazil847.discord.media
-us-west554.discord.media
-us-east229.discord.media
-us-west452.discord.media
-eu-central622.discord.media
-eu-central699.discord.media
-eu-central471.discord.media
-eu-central898.discord.media
-brazil54.discord.media
-us-east872.discord.media
-us-central987.discord.media
-eu-central674.discord.media
-eu-central470.discord.media
-us-south738.discord.media
-us-south232.discord.media
-us-south737.discord.media
-us-south631.discord.media
-us-south936.discord.media
-singapore368.discord.media
-singapore468.discord.media
-singapore863.discord.media
-russia583.discord.media
-russia88.discord.media
-russia881.discord.media
-russia982.discord.media
-russia487.discord.media
-russia681.discord.media
-russia687.discord.media
-russia484.discord.media
-us-west431.discord.media
-us-east829.discord.media
-russia913.discord.media
-eu-central170.discord.media
-eu-central236.discord.media
-eu-central331.discord.media
-eu-central736.discord.media
-eu-central436.discord.media
-eu-central630.discord.media
-eu-central531.discord.media
-eu-central131.discord.media
-eu-central234.discord.media
-eu-central130.discord.media
-eu-central237.discord.media
-eu-central930.discord.media
-eu-central537.discord.media
-eu-central435.discord.media
-eu-central737.discord.media
-eu-central132.discord.media
-eu-central434.discord.media
-eu-central134.discord.media
-eu-central636.discord.media
-eu-central837.discord.media
-eu-central834.discord.media
-eu-central634.discord.media
-eu-central933.discord.media
-eu-central832.discord.media
-eu-central669.discord.media
-eu-central865.discord.media
-eu-central532.discord.media
-eu-central366.discord.media
-eu-central439.discord.media
-eu-central766.discord.media
-eu-central534.discord.media
-eu-central635.discord.media
-eu-central768.discord.media
-eu-central937.discord.media
-eu-central267.discord.media
-eu-central530.discord.media
-eu-central934.discord.media
-eu-central168.discord.media
-eu-central633.discord.media
-eu-central661.discord.media
-eu-central867.discord.media
-eu-central263.discord.media
-eu-central431.discord.media
-eu-west699.discord.media
-eu-central830.discord.media
-eu-central663.discord.media
-eu-central432.discord.media
-eu-central269.discord.media
-eu-central262.discord.media
-eu-central438.discord.media
-eu-central167.discord.media
-eu-central160.discord.media
-eu-central469.discord.media
-eu-central566.discord.media
-eu-central763.discord.media
-eu-central460.discord.media
-eu-central639.discord.media
-eu-central330.discord.media
-eu-central337.discord.media
-eu-central664.discord.media
-eu-central260.discord.media
-eu-west598.discord.media
-eu-central334.discord.media
-eu-central963.discord.media
-eu-central769.discord.media
-eu-central360.discord.media
-eu-central465.discord.media
-eu-west997.discord.media
-eu-central760.discord.media
-eu-central164.discord.media
-eu-central866.discord.media
-eu-central835.discord.media
-eu-central662.discord.media
-eu-central638.discord.media
-eu-central960.discord.media
-eu-central461.discord.media
-eu-central869.discord.media
-eu-central861.discord.media
-eu-west495.discord.media
-eu-west196.discord.media
-eu-central265.discord.media
-eu-west593.discord.media
-eu-west191.discord.media
-eu-central568.discord.media
-eu-central862.discord.media
-eu-west492.discord.media
-eu-west599.discord.media
-eu-west497.discord.media
-eu-central767.discord.media
-eu-central968.discord.media
-us-east970.discord.media
-us-east261.discord.media
-us-central902.discord.media
-eu-west419.discord.media
-us-east589.discord.media
-india173.discord.media
-us-east107.discord.media
-eu-west227.discord.media
-us-east287.discord.media
-us-west361.discord.media
-us-south441.discord.media
-us-south344.discord.media
-eu-central277.discord.media
-eu-central473.discord.media
-russia748.discord.media
-eu-central776.discord.media
-eu-central875.discord.media
-eu-central373.discord.media
-eu-central577.discord.media
-eu-central272.discord.media
-eu-central975.discord.media
-us-south74.discord.media
-brazil564.discord.media
-brazil56.discord.media
-eu-central976.discord.media
-eu-central777.discord.media
-eu-central773.discord.media
-eu-central576.discord.media
-eu-central177.discord.media
-eu-central379.discord.media
-brazil566.discord.media
-eu-central271.discord.media
-eu-central775.discord.media
-eu-central275.discord.media
-eu-central274.discord.media
-eu-central276.discord.media
-eu-central678.discord.media
-eu-central477.discord.media
-eu-central870.discord.media
-eu-central977.discord.media
-russia746.discord.media
-eu-central173.discord.media
-eu-central876.discord.media
-russia42.discord.media
-russia246.discord.media
-russia242.discord.media
-russia944.discord.media
-eu-central970.discord.media
-eu-central874.discord.media
-eu-central478.discord.media
-russia645.discord.media
-eu-central779.discord.media
-russia841.discord.media
-us-south742.discord.media
-russia248.discord.media
-russia245.discord.media
-russia848.discord.media
-brazil361.discord.media
-brazil769.discord.media
-russia940.discord.media
-brazil663.discord.media
-eu-central370.discord.media
-eu-central179.discord.media
-us-south84.discord.media
-eu-west413.discord.media
-eu-central377.discord.media
-us-east986.discord.media
-eu-central570.discord.media
-eu-west825.discord.media
-eu-west553.discord.media
-us-south968.discord.media
-us-east886.discord.media
-russia9.discord.media
-us-central393.discord.media
-singapore551.discord.media
-singapore753.discord.media
-us-central891.discord.media
-us-central296.discord.media
-us-central198.discord.media
-singapore650.discord.media
-eu-west904.discord.media
-japan423.discord.media
-us-west414.discord.media
-us-east873.discord.media
-eu-west810.discord.media
-us-west9.discord.media
-us-east237.discord.media
-us-east483.discord.media
-singapore752.discord.media
-us-east580.discord.media
-eu-central251.discord.media
-us-east488.discord.media
-us-east921.discord.media
-us-east688.discord.media
-us-east224.discord.media
-eu-central250.discord.media
-us-east581.discord.media
-us-east529.discord.media
-us-east885.discord.media
-us-east927.discord.media
-us-east588.discord.media
-us-east926.discord.media
-us-east489.discord.media
-us-east582.discord.media
-us-east823.discord.media
-us-east388.discord.media
-us-east289.discord.media
-us-east827.discord.media
-us-east121.discord.media
-us-east883.discord.media
-us-east682.discord.media
-japan522.discord.media
-eu-central151.discord.media
-us-east183.discord.media
-us-east587.discord.media
-us-east728.discord.media
-eu-central457.discord.media
-eu-central755.discord.media
-us-east825.discord.media
-us-east724.discord.media
-eu-central358.discord.media
-us-east429.discord.media
-us-east826.discord.media
-eu-central555.discord.media
-us-east983.discord.media
-eu-central752.discord.media
-eu-central556.discord.media
-us-east127.discord.media
-eu-central354.discord.media
-us-east887.discord.media
-eu-central350.discord.media
-us-west646.discord.media
-us-west340.discord.media
-eu-central750.discord.media
-us-west64.discord.media
-japan620.discord.media
-japan825.discord.media
-eu-central852.discord.media
-eu-central351.discord.media
-eu-central257.discord.media
-us-west141.discord.media
-eu-central958.discord.media
-eu-central658.discord.media
-eu-central850.discord.media
-us-west449.discord.media
-eu-central759.discord.media
-us-west563.discord.media
-eu-central659.discord.media
-us-west548.discord.media
-eu-central952.discord.media
-us-east627.discord.media
-eu-central353.discord.media
-us-west947.discord.media
-eu-central751.discord.media
-eu-central553.discord.media
-eu-central857.discord.media
-us-west541.discord.media
-eu-central451.discord.media
-us-west847.discord.media
-us-central363.discord.media
-us-west568.discord.media
-us-west268.discord.media
-us-west264.discord.media
-eu-central454.discord.media
-japan227.discord.media
-us-west832.discord.media
-us-west149.discord.media
-us-west569.discord.media
-us-west443.discord.media
-us-west49.discord.media
-us-west34.discord.media
-us-west19.discord.media
-us-west663.discord.media
-us-east984.discord.media
-us-central168.discord.media
-us-west747.discord.media
-eu-central856.discord.media
-eu-central559.discord.media
-us-west249.discord.media
-us-west861.discord.media
-us-west147.discord.media
-us-central862.discord.media
-us-west163.discord.media
-eu-central951.discord.media
-eu-central459.discord.media
-eu-central357.discord.media
-us-west148.discord.media
-us-west465.discord.media
-us-west36.discord.media
-us-west143.discord.media
-us-west831.discord.media
-us-west642.discord.media
-us-west542.discord.media
-us-west860.discord.media
-us-west145.discord.media
-eu-central554.discord.media
-us-central760.discord.media
-us-west265.discord.media
-eu-central859.discord.media
-eu-central652.discord.media
-singapore813.discord.media
-us-west943.discord.media
-singapore719.discord.media
-us-west745.discord.media
-us-west837.discord.media
-us-west99.discord.media
-brazil852.discord.media
-us-west669.discord.media
-us-west839.discord.media
-singapore717.discord.media
-brazil756.discord.media
-brazil951.discord.media
-eu-west916.discord.media
-hongkong716.discord.media
-brazil658.discord.media
-brazil256.discord.media
-eu-west812.discord.media
-eu-west313.discord.media
-singapore914.discord.media
-brazil150.discord.media
-us-west967.discord.media
-us-west641.discord.media
-singapore510.discord.media
-us-west515.discord.media
-us-east365.discord.media
-eu-west612.discord.media
-eu-west912.discord.media
-eu-west151.discord.media
-india873.discord.media
-us-east368.discord.media
-us-east664.discord.media
-us-east269.discord.media
-sydney196.discord.media
-us-east163.discord.media
-us-east868.discord.media
-us-east768.discord.media
-us-east565.discord.media
-us-east463.discord.media
-us-east369.discord.media
-us-east265.discord.media
-us-east362.discord.media
-us-east465.discord.media
-us-east360.discord.media
-us-east769.discord.media
-us-east964.discord.media
-us-east560.discord.media
-us-east660.discord.media
-sydney990.discord.media
-us-east462.discord.media
-us-east861.discord.media
-us-east966.discord.media
-us-east263.discord.media
-us-east969.discord.media
-us-east464.discord.media
-us-east665.discord.media
-us-east264.discord.media
-us-east866.discord.media
-us-east461.discord.media
-us-east268.discord.media
-us-east962.discord.media
-us-east168.discord.media
-us-east367.discord.media
-us-east567.discord.media
-sydney798.discord.media
-us-west939.discord.media
-us-east678.discord.media
-us-east235.discord.media
-us-east874.discord.media
-us-east579.discord.media
-south-korea375.discord.media
-south-korea70.discord.media
-south-korea474.discord.media
-us-east791.discord.media
-eu-west644.discord.media
-south-korea575.discord.media
-us-east476.discord.media
-us-central759.discord.media
-us-central552.discord.media
-us-central850.discord.media
-us-central255.discord.media
-us-east605.discord.media
-us-central458.discord.media
-japan576.discord.media
-japan279.discord.media
-us-south673.discord.media
-us-east706.discord.media
-us-east906.discord.media
-us-east701.discord.media
-us-south778.discord.media
-us-south72.discord.media
-us-east700.discord.media
-japan671.discord.media
-us-east730.discord.media
-japan773.discord.media
-us-east901.discord.media
-us-central554.discord.media
-us-central152.discord.media
-japan275.discord.media
-us-east405.discord.media
-us-east303.discord.media
-japan575.discord.media
-us-south476.discord.media
-sydney510.discord.media
-sydney714.discord.media
-us-east401.discord.media
-sydney416.discord.media
-us-east203.discord.media
-us-east104.discord.media
-us-south87.discord.media
-us-east601.discord.media
-sydney910.discord.media
-sydney619.discord.media
-us-south379.discord.media
-sydney713.discord.media
-us-central451.discord.media
-us-central754.discord.media
-us-south175.discord.media
-us-east305.discord.media
-japan971.discord.media
-us-east707.discord.media
-sydney516.discord.media
-us-south174.discord.media
-us-east270.discord.media
-eu-west165.discord.media
-eu-west466.discord.media
-eu-west160.discord.media
-eu-west166.discord.media
-eu-west766.discord.media
-eu-west269.discord.media
-eu-west868.discord.media
-eu-west866.discord.media
-eu-west969.discord.media
-eu-west250.discord.media
-russia95.discord.media
-us-east276.discord.media
-singapore381.discord.media
-us-west713.discord.media
-us-west114.discord.media
-us-west710.discord.media
-us-west810.discord.media
-us-west716.discord.media
-us-west119.discord.media
-us-west210.discord.media
-us-west612.discord.media
-us-west218.discord.media
-us-west212.discord.media
-singapore386.discord.media
-us-west318.discord.media
-us-west611.discord.media
-us-west618.discord.media
-us-west715.discord.media
-us-west315.discord.media
-singapore230.discord.media
-us-west312.discord.media
-singapore238.discord.media
-us-west219.discord.media
-eu-west851.discord.media
-us-east475.discord.media
-us-east574.discord.media
-us-east876.discord.media
-us-east473.discord.media
-us-east172.discord.media
-us-east277.discord.media
-us-east776.discord.media
-india816.discord.media
-us-east371.discord.media
-us-east877.discord.media
-us-east278.discord.media
-russia437.discord.media
-us-east274.discord.media
-russia237.discord.media
-russia839.discord.media
-russia238.discord.media
-russia733.discord.media
-russia137.discord.media
-russia231.discord.media
-us-east173.discord.media
-russia732.discord.media
-russia832.discord.media
-russia531.discord.media
-us-east976.discord.media
-us-east675.discord.media
-us-east479.discord.media
-russia336.discord.media
-russia634.discord.media
-russia630.discord.media
-eu-west325.discord.media
-eu-west724.discord.media
-eu-west927.discord.media
-eu-west620.discord.media
-eu-west822.discord.media
-sydney160.discord.media
-sydney268.discord.media
-eu-west727.discord.media
-eu-west121.discord.media
-eu-west224.discord.media
-russia123.discord.media
-sydney466.discord.media
-russia621.discord.media
-eu-west520.discord.media
-eu-west823.discord.media
-russia227.discord.media
-russia823.discord.media
-russia428.discord.media
-russia320.discord.media
-russia627.discord.media
-russia928.discord.media
-russia425.discord.media
-russia727.discord.media
-us-east295.discord.media
-us-east293.discord.media
-us-east593.discord.media
-us-east591.discord.media
-us-east491.discord.media
-us-east993.discord.media
-us-east790.discord.media
-us-east796.discord.media
-us-east392.discord.media
-us-east396.discord.media
-us-east699.discord.media
-us-east194.discord.media
-us-east496.discord.media
-us-east893.discord.media
-us-east495.discord.media
-us-east195.discord.media
-us-east292.discord.media
-us-east493.discord.media
-us-east599.discord.media
-us-east596.discord.media
-us-east298.discord.media
-brazil500.discord.media
-brazil504.discord.media
-brazil802.discord.media
-brazil70.discord.media
-brazil600.discord.media
-brazil101.discord.media
-brazil208.discord.media
-eu-west848.discord.media
-eu-west147.discord.media
-eu-west146.discord.media
-eu-west748.discord.media
-eu-west142.discord.media
-eu-west446.discord.media
-eu-west740.discord.media
-eu-west440.discord.media
-eu-west746.discord.media
-eu-west747.discord.media
-eu-west941.discord.media
-eu-west844.discord.media
-eu-west144.discord.media
-singapore978.discord.media
-singapore275.discord.media
-us-east238.discord.media
-us-east138.discord.media
-us-east735.discord.media
-us-east733.discord.media
-us-east437.discord.media
-us-east831.discord.media
-us-east135.discord.media
-us-east533.discord.media
-us-east838.discord.media
-us-east139.discord.media
-us-east531.discord.media
-us-east334.discord.media
-us-east534.discord.media
-us-east630.discord.media
-us-east535.discord.media
-us-east234.discord.media
-japan9.discord.media
-us-central509.discord.media
-us-central103.discord.media
-us-central700.discord.media
-us-central706.discord.media
-singapore295.discord.media
-singapore591.discord.media
-brazil388.discord.media
-brazil613.discord.media
-brazil711.discord.media
-brazil910.discord.media
-brazil618.discord.media
-japan890.discord.media
-japan791.discord.media
-us-central431.discord.media
-japan293.discord.media
-japan192.discord.media
-japan590.discord.media
-us-central832.discord.media
-south-korea285.discord.media
-japan291.discord.media
-south-korea688.discord.media
-japan992.discord.media
-japan290.discord.media
-us-central437.discord.media
-south-korea586.discord.media
-eu-west750.discord.media
-brazil682.discord.media
-brazil984.discord.media
-brazil981.discord.media
-brazil889.discord.media
-brazil686.discord.media
-brazil880.discord.media
-us-south88.discord.media
-brazil787.discord.media
-brazil689.discord.media
-brazil781.discord.media
-sydney249.discord.media
-sydney643.discord.media
-sydney241.discord.media
-japan643.discord.media
-japan246.discord.media
-japan347.discord.media
-us-central781.discord.media
-us-central980.discord.media
-japan647.discord.media
-japan143.discord.media
-japan142.discord.media
-japan149.discord.media
-japan144.discord.media
-japan545.discord.media
-japan247.discord.media
-eu-west556.discord.media
-eu-west652.discord.media
-eu-west951.discord.media
-eu-west852.discord.media
-eu-west159.discord.media
-eu-west359.discord.media
-eu-west353.discord.media
-russia751.discord.media
-eu-west801.discord.media
-southafrica411.discord.media
-us-west299.discord.media
-us-west694.discord.media
-us-west590.discord.media
-us-west596.discord.media
-us-west493.discord.media
-us-west395.discord.media
-us-west394.discord.media
-us-west997.discord.media
-us-west893.discord.media
-us-west995.discord.media
-us-west697.discord.media
-us-west190.discord.media
-us-west592.discord.media
-us-west193.discord.media
-us-west894.discord.media
-us-west199.discord.media
-us-west195.discord.media
-us-west796.discord.media
-us-west497.discord.media
-us-west899.discord.media
-us-west696.discord.media
-us-west695.discord.media
-eu-west108.discord.media
-russia515.discord.media
-russia819.discord.media
-russia310.discord.media
-russia115.discord.media
-russia112.discord.media
-russia611.discord.media
-russia615.discord.media
-russia714.discord.media
-russia111.discord.media
-india950.discord.media
-brazil774.discord.media
-brazil776.discord.media
-sydney289.discord.media
-sydney486.discord.media
-brazil276.discord.media
-brazil170.discord.media
-sydney586.discord.media
-brazil772.discord.media
-brazil178.discord.media
-brazil1101.discord.media
-brazil1105.discord.media
-brazil1108.discord.media
-brazil1102.discord.media
-brazil1100.discord.media
-brazil1103.discord.media
-singapore621.discord.media
-brazil1109.discord.media
-us-west533.discord.media
-brazil1107.discord.media
-brazil1104.discord.media
-eu-west104.discord.media
-eu-west603.discord.media
-eu-west202.discord.media
-eu-west606.discord.media
-eu-west906.discord.media
-eu-west809.discord.media
-south-korea94.discord.media
-brazil432.discord.media
-brazil530.discord.media
-russia150.discord.media
-russia551.discord.media
-russia858.discord.media
-us-south880.discord.media
-russia156.discord.media
-us-south786.discord.media
-russia158.discord.media
-russia653.discord.media
-russia455.discord.media
-us-south982.discord.media
-us-south680.discord.media
-sydney334.discord.media
-sydney430.discord.media
-sydney237.discord.media
-russia496.discord.media
-russia799.discord.media
-russia692.discord.media
-russia497.discord.media
-russia897.discord.media
-russia297.discord.media
-russia394.discord.media
-russia594.discord.media
-russia199.discord.media
-russia792.discord.media
-russia396.discord.media
-russia791.discord.media
-japan982.discord.media
-japan282.discord.media
-japan689.discord.media
-japan783.discord.media
-japan681.discord.media
-japan383.discord.media
-japan286.discord.media
-japan482.discord.media
-us-west530.discord.media
-us-west335.discord.media
-us-west233.discord.media
-us-west935.discord.media
-us-west731.discord.media
-us-west735.discord.media
-us-west439.discord.media
-us-west238.discord.media
-us-west430.discord.media
-us-west738.discord.media
-us-west536.discord.media
-us-west434.discord.media
-us-west632.discord.media
-us-central7898.discord.media
-stockholm7920.discord.media
+eu-central41.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-central913.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+eu-central343.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+eu-central906.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234
+us-east756.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+hongkong160.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+us-east813.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+us-west878.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+eu-west51.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+japan110.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west481.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west573.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central546.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+hongkong387.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west125.discord.media 162.159.130.235,162.159.138.234
+japan158.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central314.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+russia305.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+singapore52.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-south197.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-south810.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+hongkong53.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+hongkong123.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+hongkong461.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+sydney400.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central60.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+singapore841.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+us-central176.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia874.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235
+us-south204.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235
+eu-west689.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+eu-west575.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+japan738.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central928.discord.media 162.159.128.235
+us-central640.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235
+sydney902.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235
+us-south653.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+us-south691.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+us-south454.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-central423.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234
+japan909.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235
+us-east71.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+japan703.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+japan460.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central816.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+singapore905.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west734.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+brazil298.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+japan906.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-central32.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+india75.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central448.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east246.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+eu-central620.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235
+eu-central181.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+russia474.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235
+eu-central689.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+us-west107.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+eu-central396.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central316.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+hongkong891.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central99.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-west654.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+us-west773.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+japan536.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+brazil441.discord.media 162.159.129.235
+us-south832.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+singapore503.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235
+eu-central122.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan560.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+eu-central402.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-central812.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+singapore968.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-south404.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+eu-central935.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+hongkong927.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+us-central8.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235
+eu-central567.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+hongkong881.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+eu-west791.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+hongkong997.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234
+brazil695.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+hongkong87.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-central242.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235
+us-south249.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235
+best.discord.media 162.159.130.235,162.159.137.234
+russia786.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+brazil666.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+eu-west41.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+russia144.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234
+eu-central978.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central812.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-south911.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+russia4.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+russia872.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central725.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+us-central894.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+singapore359.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+eu-central498.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+us-east955.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234
+us-central329.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west174.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+eu-central574.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235
+eu-west972.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+hongkong47.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+us-east185.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234
+japan332.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+us-east928.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+singapore41.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+japan728.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235
+us-east485.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+us-west261.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235
+hongkong63.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235
+eu-central982.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+hongkong902.discord.media 162.159.130.235
+us-central162.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central186.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234
+us-west83.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235
+japan400.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east752.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+singapore202.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+brazil555.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+singapore515.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+hongkong419.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234
+sydney498.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235
+eu-west515.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+us-west364.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+us-west607.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+russia703.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+hongkong966.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+eu-central185.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-west728.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+singapore916.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+brazil997.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235
+singapore405.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+us-central415.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+us-central214.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235
+us-east361.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+us-east120.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+eu-central655.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234
+us-west76.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+south-korea976.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central433.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234
+us-east442.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235
+brazil546.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+singapore805.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-central659.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+hongkong367.discord.media 162.159.128.235,162.159.137.234,162.159.138.234
+us-east424.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235
+us-south376.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235
+us-east704.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+eu-central69.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+eu-central785.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+japan772.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+sydney113.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west961.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+japan107.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central654.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235
+japan426.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234
+eu-west135.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234
+eu-central287.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central187.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234
+hongkong484.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+eu-central188.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-central229.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+eu-west169.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235
+us-east661.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+russia570.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+us-west126.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+hongkong151.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-central529.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235
+hongkong890.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+russia17.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+singapore286.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west166.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west419.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235
+us-west567.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+eu-central828.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+hongkong892.discord.media 162.159.129.235
+us-west222.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235
+japan621.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234
+singapore830.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+eu-central141.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+hongkong155.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+india715.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+eu-central57.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-east272.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235
+russia239.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-east780.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234
+brazil3.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+hongkong776.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west627.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+sydney768.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+brazil153.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+eu-central239.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235
+eu-central682.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+russia220.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+us-east144.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+hongkong647.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+hongkong733.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+us-central370.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+eu-central879.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+india977.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235
+japan579.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+eu-central992.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+eu-central34.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235
+us-east698.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east626.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+singapore537.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+eu-central624.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west164.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-east27.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central138.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234
+eu-west110.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+singapore769.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+singapore883.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+eu-central542.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+india91.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+us-west767.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-central729.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+eu-central611.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-east324.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+us-west769.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234
+brazil209.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west546.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+singapore214.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+japan138.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+hongkong811.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east316.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+hongkong517.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234
+eu-central174.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+singapore445.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+singapore674.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east449.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+singapore876.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+us-west514.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-central37.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west544.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east500.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+us-west510.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central744.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234
+hongkong552.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-west254.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+eu-central804.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west450.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+us-west584.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-central274.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-central807.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+japan8.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+hongkong568.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+us-east108.discord.media 162.159.128.235
+us-west281.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central468.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235
+us-west471.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+us-south305.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+singapore101.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+hongkong503.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+eu-west130.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-east182.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central772.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west45.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central887.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-south337.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west876.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west68.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+hongkong210.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+us-east207.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235
+eu-central202.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-east92.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235
+singapore19.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-east233.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+eu-central142.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+eu-central283.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+japan430.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+hongkong242.discord.media 162.159.128.235
+hongkong775.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+russia109.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-east613.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central681.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+singapore795.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+us-west0.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+japan556.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+japan222.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west415.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+japan538.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+eu-central279.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235
+japan166.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+russia52.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+hongkong422.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+eu-central145.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+singapore615.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central864.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+singapore355.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-central472.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central453.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west369.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+eu-central480.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+japan606.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+eu-central362.discord.media 162.159.129.235
+eu-central280.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+us-east646.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+japan21.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central543.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234
+eu-central391.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+us-west705.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-central432.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan854.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central929.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+japan499.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+south-korea682.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-south9.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-west87.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235
+russia389.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235
+brazil616.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+eu-central969.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235
+us-west750.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east422.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+japan520.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+eu-central389.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central150.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+eu-central374.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235
+brazil987.discord.media 162.159.137.234
+singapore155.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-central947.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central102.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+japan701.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+us-east75.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+hongkong885.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235
+eu-central627.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-south37.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+us-west27.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+sydney744.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235
+hongkong553.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+singapore457.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+us-central726.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+eu-central111.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235
+eu-central522.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+eu-central581.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west756.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central817.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234
+japan648.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central502.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235
+eu-west355.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east366.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+eu-central616.discord.media 162.159.138.234
+eu-central217.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+us-central914.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+japan762.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west975.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central601.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235
+us-central684.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+us-central406.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+hongkong116.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+japan172.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+japan711.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+us-south259.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+japan277.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+hongkong98.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east323.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+sydney118.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+japan725.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+japan921.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-west214.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234
+us-east2.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central137.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+eu-central888.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+sydney994.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235
+eu-central683.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+japan666.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+eu-central73.discord.media 162.159.130.235,162.159.137.234,162.159.138.234
+us-west495.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234
+eu-west179.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235
+eu-central702.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+brazil583.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+singapore572.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+hongkong183.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235
+eu-central486.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-central302.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+singapore601.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+us-west812.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+southafrica315.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+sydney818.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+japan220.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central987.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+japan861.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+hongkong764.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235
+sydney557.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east552.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+us-east331.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+singapore651.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+russia815.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235
+eu-central26.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+india251.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west56.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+brazil385.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+us-east375.discord.media 162.159.138.234,162.159.128.235
+sydney783.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+us-west382.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+us-west365.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+japan244.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235
+us-west720.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+us-central183.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234
+us-central711.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+eu-central338.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-west657.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west407.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235
+brazil166.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+eu-west864.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+us-west909.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+singapore330.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+eu-central881.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+singapore62.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+us-east506.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-south990.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+hongkong49.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central55.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+singapore194.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+hongkong162.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central411.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234
+japan23.discord.media 162.159.137.234
+discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235
+brazil110.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west783.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+japan167.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+us-west217.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+eu-central81.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east423.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+us-east206.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+brazil966.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+singapore886.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west608.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+us-central56.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west668.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235
+singapore396.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+south-korea21.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west946.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+hongkong338.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+japan196.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+india392.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west165.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+eu-west763.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-central877.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+japan197.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+hongkong955.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central686.discord.media 162.159.128.235,162.159.138.234
+hongkong666.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west452.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-east220.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+us-south632.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234
+eu-central562.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east900.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+india517.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+us-south97.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+japan203.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+hongkong959.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235
+us-west811.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+japan732.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west600.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central550.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-central851.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west704.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+us-west277.discord.media 162.159.138.234,162.159.129.235,162.159.130.235
+us-central139.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+russia444.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+eu-central900.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+eu-central311.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west474.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234
+eu-central183.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central483.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+hongkong13.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central878.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234
+eu-central75.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+japan745.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235
+us-central611.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235
+singapore541.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central88.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235
+us-south883.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+russia954.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234
+eu-west180.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+eu-central83.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+brazil850.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central136.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east805.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235
+japan894.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235
+hongkong270.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+eu-central38.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234
+eu-central955.discord.media 162.159.138.234,162.159.129.235
+us-west457.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+singapore618.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central792.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+hongkong703.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234
+us-south976.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+eu-central771.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235
+japan361.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central293.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235
+eu-west481.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-south373.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+singapore309.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west305.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+japan232.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+eu-central972.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east6.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+sydney135.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west162.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-south755.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+eu-central285.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-east5.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234
+us-west118.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+hongkong384.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia40.discord.media 162.159.130.235
+hongkong525.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central572.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+singapore466.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+singapore53.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+brazil254.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235
+russia490.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+eu-central687.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+japan422.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+japan378.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+japan442.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+us-west987.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+us-west907.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+hongkong434.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+japan884.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234
+russia901.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+us-east672.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235
+us-west752.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+us-central620.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+southafrica621.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235
+us-west338.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+singapore641.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234
+hongkong789.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central388.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+russia253.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+eu-central942.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-central482.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235
+us-west955.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan19.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-central525.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-central897.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+us-south196.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central693.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-central869.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+us-west337.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+sydney105.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+brazil156.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west588.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+brazil480.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+hongkong23.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-central860.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234
+us-west282.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+us-central71.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+hongkong800.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central547.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central820.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+us-west725.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234
+us-east834.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+southafrica996.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+singapore74.discord.media 162.159.128.235,162.159.130.235
+us-west561.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-west432.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+eu-west140.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east511.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-east998.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+hongkong962.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235
+japan201.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+russia53.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west690.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central33.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-west271.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-east57.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+japan871.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central489.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east994.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235
+us-west640.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+russia406.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+eu-central5.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234
+us-central657.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+hongkong273.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234
+us-central82.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east55.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235
+us-west539.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+russia343.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+eu-west878.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235
+eu-central46.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+us-east151.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central583.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235
+eu-west274.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+eu-central19.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+eu-west17.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+japan323.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+brazil754.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235
+japan872.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central93.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+eu-central178.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-central958.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+singapore532.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+singapore860.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-central626.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+brazil972.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+us-central728.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+us-east959.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+hongkong235.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central307.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+eu-west572.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central419.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-east259.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+eu-central546.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+eu-central61.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+us-east355.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+us-east653.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+eu-central40.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+singapore593.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+singapore619.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+eu-central29.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+eu-central901.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234
+eu-west77.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central590.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-west473.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central44.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east853.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east252.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+russia357.discord.media 162.159.128.235,162.159.137.234
+hongkong634.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+brazil1063.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west472.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+eu-central2.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235
+us-west886.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west979.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+eu-central48.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+us-west782.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+us-west787.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234
+eu-central74.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east154.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+eu-central37.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-east255.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central8.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235
+us-west293.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234
+eu-central43.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234
+us-east554.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+eu-central95.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+eu-west7.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-west877.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234
+eu-west375.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-central918.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234
+eu-central35.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+us-west882.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east859.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+us-east758.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+eu-central14.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+russia943.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+us-south633.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+eu-west79.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+eu-central12.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-west270.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east755.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+us-central13.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-central11.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east954.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+us-east950.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+us-east258.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east759.discord.media 162.159.129.235,162.159.130.235
+eu-central412.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+eu-central84.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+us-central412.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+hongkong278.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+eu-central92.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east951.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-central315.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+us-east251.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+us-central219.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west438.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235
+us-east656.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-west234.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+eu-central24.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-west971.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+us-west875.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235
+us-west970.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central36.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+us-west182.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-west739.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234
+us-west873.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+eu-central63.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west237.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234
+us-west187.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+us-west670.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+eu-central64.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+us-west185.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234
+us-west778.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-central17.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+us-central516.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west378.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+eu-west533.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-west98.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west7.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+us-west37.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west70.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-west572.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west770.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+us-west573.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+eu-west935.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+us-west276.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+us-west377.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west178.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235
+eu-central65.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+eu-west534.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+us-west470.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234
+eu-west737.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west8.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+us-west175.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+eu-west93.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-west84.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+eu-west535.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+us-west278.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west273.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+eu-west3.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+us-west85.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234
+us-west81.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west836.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central68.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+us-west874.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+us-west473.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+japan414.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central66.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+japan717.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central67.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234
+us-west283.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+japan417.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+japan315.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235
+japan515.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+eu-central80.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+japan213.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234
+us-west685.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west485.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+us-west680.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+us-west689.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central818.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west581.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west489.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234
+us-east10.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west488.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+eu-central715.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east41.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234
+eu-central317.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east616.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east712.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+eu-central514.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central519.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235
+eu-central511.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+us-east714.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+us-east419.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+us-west681.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+us-east611.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235
+us-east19.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+eu-central517.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+us-east619.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east811.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central717.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235
+us-west780.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+us-east412.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235
+eu-central718.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234
+us-east56.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235
+us-east918.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central916.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central71.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235
+eu-west635.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-central512.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+us-east418.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+us-central414.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+eu-central510.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234
+us-east414.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+us-east513.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+us-east917.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-east617.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+eu-central513.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+us-east911.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+us-east515.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+eu-central810.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+eu-central612.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central919.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235
+us-east415.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+eu-central587.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central59.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central711.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central910.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235
+us-east913.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+us-west381.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central911.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-central615.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central613.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+eu-central618.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+eu-central617.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+us-east812.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central713.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+eu-west84.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235
+eu-west337.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central714.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central816.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235
+eu-west56.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+eu-west24.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+us-east952.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east652.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+eu-west54.discord.media 162.159.128.235
+eu-central716.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east91.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-west94.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235
+eu-west1.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west510.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234
+eu-west6.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-west91.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+us-east215.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+eu-central110.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+eu-west88.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234
+us-east118.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+us-west984.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+eu-central119.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+eu-central116.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+us-east110.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+eu-central843.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east21.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+us-east111.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234
+eu-central749.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235
+eu-central349.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+eu-central247.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+eu-central140.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-south661.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+japan998.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+eu-central143.discord.media 162.159.130.235,162.159.129.235,162.159.128.235
+eu-central444.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+eu-central112.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+eu-central846.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+eu-central743.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central346.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central947.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+eu-central746.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+eu-central848.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+eu-central144.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central22.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central449.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+eu-central49.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+eu-central648.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234
+eu-central647.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central249.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+eu-central248.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+eu-central215.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234
+eu-central649.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central246.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central244.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central740.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central842.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-east352.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+eu-central446.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+eu-central540.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central541.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235
+eu-central913.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central242.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+eu-central344.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+eu-central747.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central25.discord.media 162.159.138.234
+eu-central447.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central348.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-central941.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-central148.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central545.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235
+eu-central948.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+eu-central149.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+eu-central509.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+eu-central745.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+eu-central703.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central940.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+eu-central844.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+eu-central203.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+eu-central641.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central440.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+eu-central340.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+eu-central908.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central348.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235
+eu-central403.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+eu-central849.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-central303.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central606.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+eu-central944.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central802.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235
+eu-central902.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+us-central345.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central211.discord.media 162.159.128.235,162.159.129.235,162.159.130.235
+eu-central207.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central903.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+eu-west175.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central956.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234
+eu-central801.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+us-central141.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235
+us-central549.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+eu-central301.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+us-east310.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central708.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235
+eu-central704.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-central109.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central149.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235
+eu-central803.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+eu-central105.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central307.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central949.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central805.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central706.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central700.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+us-central646.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central605.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central501.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+eu-central709.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central909.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-central441.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central504.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+us-central344.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+eu-central608.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central400.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+eu-central807.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central503.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+us-central443.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+eu-central505.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+eu-central904.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+eu-central20.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+eu-central304.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235
+russia761.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central800.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+us-west123.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234
+eu-central100.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central405.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234
+us-west47.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234
+eu-central808.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235
+eu-central98.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+us-central742.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west321.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234
+us-west625.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central101.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+us-west522.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-west626.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235
+us-west225.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+eu-central0.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-central107.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+us-west22.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+us-west422.discord.media 162.159.129.235,162.159.130.235
+us-west923.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+us-east53.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+us-west228.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235
+us-west20.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+us-west729.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west528.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west229.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+us-west426.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west223.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+us-west25.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west122.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234
+us-west421.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+us-west129.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+japan657.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235
+us-west824.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+singapore456.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+us-west527.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+eu-central208.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+us-west42.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+japan552.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+us-south799.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west888.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+us-west723.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234
+us-east211.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+us-west929.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+us-south793.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+us-west2.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+japan658.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+us-west128.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+japan151.discord.media 162.159.137.234,162.159.138.234
+japan5.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+us-south392.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-south890.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+us-south698.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan54.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-south193.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-south892.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235
+us-south897.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+us-south98.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central13.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west373.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+japan452.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+us-south590.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-south495.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+eu-central841.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+singapore249.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-south194.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+us-central318.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+us-south69.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235
+us-south510.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+us-south615.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-south111.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+us-south711.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+eu-central50.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235
+us-west475.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-south410.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+singapore348.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234
+us-south312.discord.media 162.159.128.235
+us-south419.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-south518.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+sydney401.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235
+us-east356.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+us-east855.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+singapore743.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+singapore648.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+singapore645.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-south619.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+singapore740.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+sydney906.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+singapore243.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234
+eu-central883.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+us-central316.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+sydney805.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+singapore75.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central424.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+singapore31.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+russia306.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia601.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+russia904.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+russia702.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+russia508.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+russia806.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+russia609.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+russia808.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east113.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+us-east354.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central646.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234
+russia902.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+russia502.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+russia507.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia707.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+russia805.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+us-west777.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+southafrica579.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central840.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+us-central479.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-south29.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234
+us-central374.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-central72.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-central177.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234
+us-central76.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central273.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235
+eu-central176.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+us-central70.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+eu-central549.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-central272.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+us-central372.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+japan754.discord.media 162.159.138.234,162.159.129.235,162.159.130.235
+us-south803.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-south402.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central678.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+us-south502.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-south507.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+us-south408.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235
+us-south908.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+russia501.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235
+us-south600.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-south806.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west882.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-west388.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235
+eu-west280.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-west683.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+eu-west880.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+eu-west887.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234
+russia374.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west589.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234
+russia471.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+eu-west485.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234
+eu-west187.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+russia774.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+russia975.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+eu-west488.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+russia78.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+russia779.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+russia473.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-west460.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+russia878.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+russia172.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+russia72.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west986.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east351.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia671.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+singapore250.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+russia578.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+us-west393.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235
+eu-west715.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235
+eu-west377.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central712.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+russia371.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-west719.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+japan637.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+eu-central27.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+us-central240.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234
+japan837.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+japan236.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+japan530.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235
+japan930.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235
+japan235.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-central222.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+us-central624.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan39.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+russia709.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central72.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+brazil800.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+us-east116.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+us-east81.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+us-south450.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+brazil224.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+us-south453.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235
+us-south455.discord.media 162.159.129.235,162.159.128.235,162.159.137.234
+us-south150.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+brazil221.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+brazil72.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+brazil421.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-south355.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+us-south52.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234
+brazil521.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+us-south156.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235
+brazil27.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+us-south957.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235
+brazil124.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+us-south152.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+brazil426.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235
+brazil827.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+brazil627.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235
+us-south300.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+russia500.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan737.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+japan935.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-east34.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east68.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan184.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235
+us-east33.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+us-east44.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234
+us-east70.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+eu-west736.discord.media 162.159.129.235,162.159.138.234,162.159.128.235
+us-east26.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+us-east89.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+us-east67.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+us-east22.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east39.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+japan436.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan239.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+japan259.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+japan707.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+japan364.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+us-east83.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+japan261.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+hongkong499.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234
+japan205.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-west380.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235
+eu-central520.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+eu-central723.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central415.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+eu-central827.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central726.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+eu-central526.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan769.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+eu-central126.discord.media 162.159.138.234,162.159.130.235,162.159.129.235
+eu-central926.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central724.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central129.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234
+eu-central225.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central322.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+us-central673.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central420.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+eu-central228.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+eu-central823.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central429.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central120.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central221.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+eu-central720.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235
+eu-central327.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central922.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central721.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central428.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+eu-central220.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+eu-central727.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+eu-central923.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+eu-central328.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+eu-central927.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central528.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234
+eu-central123.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central527.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234
+eu-central824.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234
+eu-central525.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+eu-central625.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central924.discord.media 162.159.138.234,162.159.137.234
+eu-central920.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central822.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+eu-central621.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central628.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+us-west67.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+us-east253.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+eu-central210.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+brazil623.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-south250.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234
+singapore501.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west771.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+singapore809.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+singapore803.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+brazil998.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+brazil197.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235
+brazil795.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+brazil497.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+brazil591.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234
+brazil91.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central3.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+us-east845.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+brazil899.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+brazil190.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+brazil59.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-central68.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+us-east448.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235
+singapore59.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east549.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235
+us-south850.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east541.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+brazil596.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234
+us-east643.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+us-east142.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+singapore909.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+us-east145.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-east841.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east244.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+us-east748.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-east741.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+us-east247.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+us-east842.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-east640.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+us-east242.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+us-east942.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+us-east545.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+us-east342.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235
+japan669.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235
+brazil992.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235
+eu-central918.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+eu-west690.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central741.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235
+us-east745.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west224.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234
+japan665.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west889.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+india7.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+us-east782.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-central448.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+us-east47.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-east907.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+us-west16.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east899.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central825.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+eu-central21.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east157.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central298.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234
+us-south855.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+us-east36.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+japan718.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+us-central5.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+eu-central47.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+russia509.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+japan462.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-east689.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west511.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+us-west724.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+eu-central515.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-south115.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+eu-central949.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+us-east58.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east279.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235
+us-east452.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-central32.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+eu-west772.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east99.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+eu-central445.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan863.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234
+eu-west756.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234
+us-east553.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234
+eu-central734.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+eu-central39.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235
+eu-central54.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+us-central303.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east575.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-central410.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-west639.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west66.discord.media 162.159.138.234
+eu-central270.discord.media 162.159.137.234,162.159.138.234
+eu-central585.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+eu-central589.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central387.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-central487.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+eu-central584.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+eu-central688.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central385.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central891.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235
+eu-central796.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+eu-central880.discord.media 162.159.128.235,162.159.129.235
+eu-central384.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central292.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central698.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central597.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central690.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central991.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+eu-central394.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+eu-central896.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235
+eu-central191.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-central386.discord.media 162.159.138.234
+eu-central986.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+eu-central290.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central680.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-central491.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+eu-central886.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+eu-central286.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central586.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central782.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central184.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central190.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central988.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+eu-central793.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central296.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-central195.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+eu-central299.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234
+eu-central694.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central395.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234
+eu-central593.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+eu-central996.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+eu-central692.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+eu-central780.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central196.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central989.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central997.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central281.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235
+eu-central497.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+eu-central295.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+us-west200.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+us-west508.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+eu-central197.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+eu-central798.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central697.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+us-west505.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234
+eu-central291.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+eu-central788.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+eu-central591.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central180.discord.media 162.159.129.235,162.159.137.234,162.159.138.234
+us-west455.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+eu-central790.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central791.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central192.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+eu-central797.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+us-west203.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-central787.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+us-west105.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235
+eu-central398.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-west400.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+us-west800.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234
+eu-central392.discord.media 162.159.137.234,162.159.138.234,162.159.128.235
+eu-central488.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235
+eu-central998.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+us-west251.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west504.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+eu-central993.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west150.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+us-west106.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+eu-central893.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+eu-central595.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central397.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234
+eu-central598.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235
+us-west804.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234
+us-west850.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+eu-central182.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-central892.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-west805.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+us-west507.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234
+eu-central980.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+us-west908.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west956.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west651.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-west307.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west60.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west104.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west359.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+eu-central795.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-west904.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central594.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234
+us-west856.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-west30.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234
+eu-central889.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234
+eu-central789.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-west902.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+us-west753.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+eu-central990.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235
+eu-west107.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+us-west806.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-west501.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west155.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west204.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+us-west10.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central691.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+brazil241.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+eu-central288.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+us-west401.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235
+brazil444.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west852.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+us-west459.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235
+us-west355.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+us-west703.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west553.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+us-west952.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+brazil642.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+brazil84.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+eu-central981.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central894.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west453.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west557.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central666.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+brazil447.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west308.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234
+eu-central882.discord.media 162.159.138.234,162.159.128.235
+us-west209.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west90.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235
+us-west700.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central495.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235
+us-west503.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west252.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-central390.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-west351.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+brazil847.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+us-west554.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+us-east229.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+brazil543.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+us-east573.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+us-west452.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west552.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central622.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central699.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+eu-central471.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central898.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235
+us-west454.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+brazil54.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+brazil348.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234
+us-east872.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+us-central987.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central674.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235
+eu-central470.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-south838.discord.media 162.159.128.235,162.159.137.234
+us-south732.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-south738.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-south232.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-south737.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+us-south631.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+us-south936.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west103.discord.media 162.159.138.234,162.159.128.235
+singapore368.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+singapore468.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+singapore863.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+Average DNS queries performed: 1289/sec, DNS names remaining: 24344
+russia583.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+russia285.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+russia88.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+russia881.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235
+russia982.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+russia886.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+russia487.discord.media 162.159.138.234
+russia681.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia687.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+russia484.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235
+us-west431.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia483.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234
+us-east829.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+us-west691.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+russia913.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+eu-central278.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+eu-central170.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+eu-central236.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central331.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235
+eu-central736.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central135.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235
+eu-central436.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+eu-central630.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234
+eu-central531.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+eu-central333.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central131.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+eu-central234.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central130.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+eu-central237.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+eu-central930.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central437.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+eu-central632.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234
+eu-central537.discord.media 162.159.128.235,162.159.130.235
+eu-central435.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central737.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+eu-central132.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+eu-central434.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+eu-central266.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234
+eu-central134.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+eu-central636.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central837.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central230.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235
+eu-central834.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+eu-central369.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central634.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+eu-central933.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-central832.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+eu-central669.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central865.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235
+eu-central532.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central366.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+eu-central439.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+eu-central766.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235
+eu-central268.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central534.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+eu-central635.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+eu-central768.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+eu-central765.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235
+eu-central937.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234
+eu-central267.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235
+eu-central530.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+eu-central934.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+eu-central168.discord.media 162.159.137.234,162.159.128.235,162.159.130.235
+eu-central936.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235
+eu-central633.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central661.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+eu-central867.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+eu-central263.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+eu-central431.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central962.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central833.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-west699.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+eu-central830.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+eu-central663.discord.media 162.159.129.235,162.159.130.235
+eu-central432.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+eu-central269.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+eu-central262.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234
+eu-central730.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central438.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central167.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central564.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+eu-central160.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+eu-central469.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235
+eu-central566.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+eu-central763.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central460.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+eu-central639.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+eu-central330.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central337.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+eu-central761.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central664.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central260.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+eu-central563.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235
+eu-west598.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+eu-central334.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235
+eu-central963.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+eu-central769.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central360.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central465.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+eu-west997.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central760.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+eu-central164.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+eu-central536.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234
+eu-central866.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central835.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central662.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+eu-central638.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+eu-central960.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central361.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-central461.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234
+eu-central869.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+eu-central861.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+eu-west495.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+eu-west196.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+eu-central265.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+eu-west593.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+eu-west191.discord.media 162.159.128.235,162.159.137.234
+eu-central568.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central862.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-west492.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235
+us-east673.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234
+eu-west890.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235
+eu-west599.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west595.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+eu-west497.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west398.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central967.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234
+eu-central767.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central968.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+us-east970.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+us-east261.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+us-central902.discord.media 162.159.137.234,162.159.129.235,162.159.128.235
+eu-west419.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+us-central288.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east589.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+india173.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+us-east107.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235
+eu-west227.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+us-east287.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west361.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235
+us-south441.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+us-south344.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+eu-central277.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central473.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+brazil767.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+russia748.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-central776.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+eu-central875.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central373.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235
+eu-central577.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+brazil66.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+eu-central272.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central975.discord.media 162.159.128.235,162.159.130.235
+us-south74.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+brazil564.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+brazil56.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-central976.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+eu-central479.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+eu-central777.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central773.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central679.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235
+eu-central576.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+eu-central677.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central177.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-central974.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central379.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central671.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235
+brazil566.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central271.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+eu-central775.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+eu-central275.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235
+eu-central274.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central575.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+eu-central276.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+eu-central678.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+eu-central477.discord.media 162.159.129.235,162.159.138.234
+us-south641.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+eu-central871.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+eu-central870.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central977.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia746.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+eu-central173.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+eu-central876.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+russia42.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235
+russia246.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia242.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+russia743.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central475.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+eu-central676.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+russia944.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central970.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+eu-central874.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235
+eu-central478.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+russia645.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central779.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+russia841.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-west410.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235
+us-south742.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia248.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+russia245.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia848.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+brazil361.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+brazil769.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+russia940.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+brazil663.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234
+eu-central370.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central179.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+brazil461.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235
+us-south749.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-south84.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+eu-central971.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+eu-west413.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+Average DNS queries performed: 492/sec, DNS names remaining: 15723
+eu-central377.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east986.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central570.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+Average DNS queries performed: 423/sec, DNS names remaining: 44349
+eu-west825.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+eu-west553.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+us-east773.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235
+us-south968.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central496.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+us-east886.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+russia9.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-central393.discord.media 162.159.128.235,162.159.129.235
+us-central699.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+singapore551.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+singapore753.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-central891.discord.media 162.159.128.235
+us-central190.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+us-central296.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+us-central198.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-central791.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235
+singapore650.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+us-central194.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west904.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+japan423.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+us-west414.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+us-east873.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west810.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west9.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east237.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+us-east483.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+singapore752.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east580.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central251.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+us-east488.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+us-east921.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+us-east688.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east224.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+eu-central250.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+us-east581.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east529.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+eu-central252.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235
+us-east428.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east885.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-east927.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+us-east588.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east926.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+us-east489.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east582.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east823.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235
+us-east388.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+us-east289.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+us-east827.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234
+us-east121.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234
+us-east527.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+us-east883.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235
+eu-central959.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east682.discord.media 162.159.138.234
+japan522.discord.media 162.159.138.234,162.159.137.234,162.159.129.235
+us-east181.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central151.discord.media 162.159.130.235,162.159.137.234
+us-east183.discord.media 162.159.128.235,162.159.129.235
+us-east587.discord.media 162.159.128.235
+us-east728.discord.media 162.159.138.234
+eu-central457.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central755.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235
+eu-central159.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+us-east825.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+us-east724.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central258.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central954.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east520.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+eu-central358.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east429.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+us-east826.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central854.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+eu-central555.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east983.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central450.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central752.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central556.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+us-east127.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central354.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east480.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east887.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-central350.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west646.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+us-west340.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-central750.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west64.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+japan620.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+japan825.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central852.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+eu-central351.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235
+eu-central257.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+us-west141.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central958.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234
+eu-central658.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+eu-central850.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+us-west449.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+eu-central759.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west563.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+eu-central659.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235
+us-west548.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+eu-central952.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+us-east627.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central353.discord.media 162.159.138.234,162.159.130.235
+us-east686.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+us-west969.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235
+us-west947.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central751.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+eu-central553.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235
+eu-central857.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west644.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west541.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+eu-central451.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+us-west847.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west667.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+us-central363.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+us-west568.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-central359.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+us-west268.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west264.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235
+eu-central454.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+japan227.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+us-west832.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west149.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-west569.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234
+us-west443.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-central950.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+us-west49.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west34.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235
+us-west19.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west663.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235
+us-central161.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central758.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234
+us-east984.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+us-central168.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+eu-central458.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+us-west747.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-central856.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235
+eu-central559.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+us-west249.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235
+us-west861.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234
+us-west147.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-central862.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+us-west163.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-central951.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-central459.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234
+eu-central357.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west148.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+us-west465.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west36.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west143.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+us-west831.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+us-west642.discord.media 162.159.138.234
+us-west542.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-west860.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west145.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+eu-central554.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+us-central760.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-west265.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west849.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+eu-central859.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+eu-central652.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+singapore813.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235
+us-west943.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+singapore719.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west745.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+us-west837.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-west99.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+brazil852.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+us-west669.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west839.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+singapore717.discord.media 162.159.130.235,162.159.137.234
+brazil756.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235
+brazil951.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-west916.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+brazil351.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+hongkong716.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235
+brazil658.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+brazil550.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+brazil256.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+eu-west812.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west313.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+singapore914.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+brazil150.discord.media 162.159.137.234
+us-west967.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west641.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+singapore510.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+us-west515.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+us-east365.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+eu-west612.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+eu-west912.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west151.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+india873.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+us-east368.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+us-east664.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+us-east269.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+sydney196.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+us-east163.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+us-east868.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east768.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-east565.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+us-east463.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east369.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east265.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235
+us-east362.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east465.discord.media 162.159.137.234
+us-east360.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east769.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east964.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east560.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+us-east660.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+sydney990.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235
+us-east462.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east166.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235
+sydney9.discord.media 162.159.137.234,162.159.138.234,162.159.130.235
+us-east861.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east966.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+sydney49.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east263.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east969.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235
+us-east464.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-east665.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east264.discord.media 162.159.137.234,162.159.138.234
+us-east866.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+us-east461.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+us-east268.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+us-east962.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east168.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east367.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+us-east567.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+sydney798.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235
+us-west939.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+us-east678.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234
+us-east235.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east874.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-east579.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+south-korea375.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234
+south-korea70.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+south-korea474.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east791.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+eu-west644.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+south-korea575.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+us-east476.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+us-central759.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235
+us-central552.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+us-central850.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-central255.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east605.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+us-central458.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234
+us-east609.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+us-south975.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+japan576.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+japan279.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+us-south673.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235
+us-east706.discord.media 162.159.129.235,162.159.128.235,162.159.130.235
+us-central755.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+us-east906.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+us-east701.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+us-south778.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+us-south72.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235
+us-central258.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235
+us-east700.discord.media 162.159.137.234,162.159.129.235,162.159.128.235
+us-central257.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+japan671.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east730.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan773.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235
+us-east901.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+us-east101.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234
+us-central554.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+us-central152.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-east708.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+japan275.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235
+us-east405.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east303.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235
+japan575.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235
+us-central551.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234
+us-south476.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234
+us-south979.discord.media 162.159.128.235,162.159.137.234
+sydney510.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east709.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+sydney714.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234
+us-east401.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235
+sydney416.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+us-east203.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+us-central153.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235
+us-east104.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+us-south87.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+us-east601.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+sydney910.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+us-east608.discord.media 162.159.128.235,162.159.137.234,162.159.130.235
+us-east702.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+sydney619.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+us-south379.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+sydney713.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+us-central451.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-south278.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234
+us-south974.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+us-central754.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+us-south175.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234
+us-east305.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+japan971.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+us-east707.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+sydney516.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-south174.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235
+us-east270.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+us-east807.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+eu-west165.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235
+eu-west466.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west160.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234
+eu-west166.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234
+eu-west766.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235
+eu-west269.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+eu-west868.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+eu-west866.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+eu-west969.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+eu-west250.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+russia95.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia16.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east276.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+singapore381.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235
+singapore780.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+us-west713.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+us-west114.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+us-west710.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west518.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west810.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west716.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-west119.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234
+us-west210.discord.media 162.159.138.234
+us-west612.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+us-west619.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-west218.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+us-west212.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+us-west215.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+singapore386.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west318.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-west611.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+us-west618.discord.media 162.159.130.235,162.159.137.234,162.159.138.234
+us-west715.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west315.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+singapore230.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-west312.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+singapore238.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west219.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+eu-west851.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235
+us-east475.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east574.discord.media 162.159.130.235,162.159.138.234
+us-east876.discord.media 162.159.128.235,162.159.130.235
+us-east473.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east172.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235
+us-east277.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east776.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+india816.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+us-east371.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-east877.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east278.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east376.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+russia437.discord.media 162.159.129.235
+us-east274.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234
+russia237.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia839.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+russia238.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+russia733.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234
+russia137.discord.media 162.159.128.235,162.159.138.234
+russia231.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east173.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+russia338.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+russia431.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+russia732.discord.media 162.159.129.235,162.159.137.234
+russia832.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235
+russia130.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+russia531.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+russia937.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east976.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+us-east675.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234
+us-east479.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+russia336.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+russia634.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234
+russia630.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west325.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+eu-west724.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+eu-west621.discord.media 162.159.130.235,162.159.138.234,162.159.137.234
+eu-west927.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+eu-west620.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west822.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235,162.159.138.234
+brazil0.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235
+sydney160.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+sydney268.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+eu-west727.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235
+eu-west121.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+eu-west529.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234
+eu-west224.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+russia123.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+sydney466.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+russia424.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235
+russia623.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+russia520.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234
+russia621.discord.media 162.159.137.234,162.159.129.235,162.159.130.235
+eu-west520.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+eu-west823.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+russia726.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+russia227.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234
+russia823.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+russia428.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+russia320.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+russia627.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235
+russia928.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia425.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+russia727.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234
+india571.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-east296.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235
+us-east295.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east293.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+us-east593.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+us-east591.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+us-east491.discord.media 162.159.130.235
+us-east890.discord.media 162.159.128.235,162.159.129.235,162.159.130.235
+us-east993.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east790.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234
+us-east796.discord.media 162.159.138.234
+us-east392.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+us-east396.discord.media 162.159.130.235
+us-east499.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235
+us-east699.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+us-east194.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-east590.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235
+us-east496.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east893.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+us-east495.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234,162.159.128.235
+us-east195.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235
+us-east292.discord.media 162.159.129.235,162.159.128.235
+us-east493.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+us-east599.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235
+us-east596.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-east598.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234,162.159.128.235
+us-east995.discord.media 162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234
+us-east298.discord.media 162.159.138.234,162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235
+brazil500.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+brazil504.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+brazil802.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+brazil70.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.130.235,162.159.138.234
+brazil600.discord.media 162.159.137.234,162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235
+brazil101.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+brazil208.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+brazil701.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234
+eu-west848.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+eu-west147.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+eu-west146.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+eu-west748.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235
+eu-west142.discord.media 162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235
+eu-west446.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west740.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west440.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+eu-west746.discord.media 162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235
+eu-west747.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+eu-west941.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-west942.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+eu-west844.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+eu-west144.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+singapore978.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+singapore275.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-east238.discord.media 162.159.128.235,162.159.129.235
+us-east138.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235,162.159.137.234
+us-east735.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+us-east538.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east733.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+us-east437.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234
+us-east831.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-east135.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234
+us-east935.discord.media 162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234
+us-east738.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+us-east533.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+us-east838.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+us-east739.discord.media 162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235
+us-east139.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+us-east531.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.137.234
+us-east334.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+us-east534.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-east630.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-east535.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234
+us-east234.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235
+japan9.discord.media 162.159.130.235
+us-central100.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-central509.discord.media 162.159.137.234,162.159.128.235,162.159.138.234
+us-central103.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+us-central700.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-central706.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+singapore295.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+singapore591.discord.media 162.159.137.234,162.159.138.234
+brazil388.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+brazil613.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234
+brazil711.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234
+brazil315.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234
+brazil910.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235
+brazil618.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+japan890.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+japan791.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+us-central431.discord.media 162.159.128.235
+japan293.discord.media 162.159.137.234,162.159.129.235
+japan192.discord.media 162.159.138.234,162.159.128.235
+us-central934.discord.media 162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235
+japan590.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+japan599.discord.media 162.159.137.234,162.159.129.235
+us-central832.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-central137.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+south-korea285.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+japan291.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+south-korea688.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235
+japan992.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+japan290.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235
+us-central437.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+south-korea586.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+eu-west750.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.129.235
+brazil682.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234,162.159.129.235
+brazil984.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234
+brazil380.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+brazil981.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+brazil889.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+brazil686.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235,162.159.130.235
+brazil880.discord.media 162.159.130.235,162.159.137.234
+us-south88.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+brazil787.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+brazil689.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235
+brazil781.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+sydney249.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235
+sydney643.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+sydney241.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+brazil77.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+japan643.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan246.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235
+japan347.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234
+us-central781.discord.media 162.159.128.235,162.159.130.235
+us-central980.discord.media 162.159.128.235
+us-central586.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+japan647.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+japan143.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan142.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.129.235
+japan149.discord.media 162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.129.235
+japan144.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+japan545.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+japan247.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234
+eu-west854.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234,162.159.129.235
+eu-west856.discord.media 162.159.129.235,162.159.128.235
+eu-west556.discord.media 162.159.128.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.129.235
+eu-west652.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.128.235,162.159.138.234
+eu-west951.discord.media 162.159.130.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west852.discord.media 162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.129.235
+eu-west159.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+eu-west359.discord.media 162.159.130.235
+eu-west353.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+russia751.discord.media 162.159.130.235
+eu-west801.discord.media 162.159.138.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234
+southafrica411.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+us-west299.discord.media 162.159.137.234,162.159.138.234
+us-west694.discord.media 162.159.130.235,162.159.137.234
+us-west590.discord.media 162.159.137.234,162.159.138.234
+us-west596.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+us-west493.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235
+us-west395.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+us-west394.discord.media 162.159.138.234,162.159.129.235
+us-west997.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+us-west893.discord.media 162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235,162.159.138.234
+us-west995.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+us-west697.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west190.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west592.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-west193.discord.media 162.159.129.235,162.159.137.234,162.159.130.235,162.159.128.235,162.159.138.234
+us-west894.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235
+us-west199.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.129.235
+us-west195.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234
+us-west796.discord.media 162.159.137.234,162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235
+us-west497.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-west899.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235
+us-west696.discord.media 162.159.129.235,162.159.138.234,162.159.128.235,162.159.130.235,162.159.137.234
+us-west695.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.128.235,162.159.137.234
+eu-west108.discord.media 162.159.129.235
+russia515.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+russia819.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235
+russia310.discord.media 162.159.137.234,162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235
+russia115.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235
+russia112.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+russia611.discord.media 162.159.138.234,162.159.128.235
+russia615.discord.media 162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234
+russia714.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+russia118.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+russia111.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+india950.discord.media 162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234,162.159.130.235
+russia219.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+brazil774.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+brazil778.discord.media 162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235,162.159.130.235
+brazil776.discord.media 162.159.138.234,162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235
+sydney289.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+sydney486.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234
+brazil276.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+brazil170.discord.media 162.159.130.235,162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235
+sydney586.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+brazil772.discord.media 162.159.137.234,162.159.129.235
+sydney8.discord.media 162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235
+brazil178.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.130.235,162.159.137.234
+us-west730.discord.media 162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235
+brazil1101.discord.media 162.159.128.235,162.159.129.235
+brazil1105.discord.media 162.159.138.234,162.159.128.235
+brazil1108.discord.media 162.159.128.235,162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234
+brazil1102.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234
+brazil1100.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+Average DNS queries performed: 1200/sec, DNS names remaining: 28461
+brazil1103.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+singapore621.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+brazil1109.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west533.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+brazil1107.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.137.234,162.159.130.235
+brazil1104.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+eu-west104.discord.media 162.159.138.234,162.159.128.235
+eu-west603.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235
+eu-west202.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234
+eu-west606.discord.media 162.159.137.234,162.159.128.235
+eu-west906.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+eu-west809.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+south-korea94.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+brazil432.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+brazil530.discord.media 162.159.137.234
+russia555.discord.media 162.159.129.235,162.159.130.235
+russia259.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234
+russia150.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+russia551.discord.media 162.159.130.235,162.159.138.234,162.159.128.235,162.159.137.234,162.159.129.235
+russia858.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.130.235
+us-south880.discord.media 162.159.130.235,162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235
+russia156.discord.media 162.159.129.235,162.159.130.235,162.159.138.234
+us-south786.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+russia158.discord.media 162.159.130.235,162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234
+russia653.discord.media 162.159.129.235,162.159.130.235,162.159.137.234
+russia658.discord.media 162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234,162.159.137.234
+russia455.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234,162.159.128.235
+russia351.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
+us-south982.discord.media 162.159.137.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.138.234
+us-south680.discord.media 162.159.137.234,162.159.129.235,162.159.128.235,162.159.130.235,162.159.138.234
+us-south384.discord.media 162.159.128.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.130.235
+russia851.discord.media 162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235,162.159.138.234
+sydney23.discord.media 162.159.129.235,162.159.128.235,162.159.138.234,162.159.137.234,162.159.130.235
+sydney334.discord.media 162.159.137.234
+sydney430.discord.media 162.159.129.235,162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235
+sydney237.discord.media 162.159.138.234,162.159.137.234,162.159.128.235,162.159.129.235,162.159.130.235
+russia496.discord.media 162.159.128.235,162.159.129.235,162.159.138.234,162.159.130.235,162.159.137.234
+russia799.discord.media 162.159.137.234
+russia692.discord.media 162.159.129.235,162.159.128.235
+russia497.discord.media 162.159.129.235,162.159.138.234,162.159.130.235,162.159.128.235,162.159.137.234
+russia897.discord.media 162.159.130.235
+russia297.discord.media 162.159.137.234,162.159.130.235,162.159.129.235,162.159.128.235,162.159.138.234
+russia394.discord.media 162.159.128.235,162.159.138.234,162.159.130.235,162.159.129.235,162.159.137.234
+russia795.discord.media 162.159.130.235,162.159.129.235,162.159.128.235,162.159.137.234,162.159.138.234
+russia594.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+russia199.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.138.234,162.159.129.235
+russia792.discord.media 162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234
+russia396.discord.media 162.159.137.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.138.234
+russia293.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+russia896.discord.media 162.159.130.235,162.159.137.234,162.159.129.235,162.159.138.234,162.159.128.235
+russia791.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235,162.159.138.234
+japan982.discord.media 162.159.138.234
+japan282.discord.media 162.159.138.234,162.159.129.235,162.159.137.234,162.159.128.235,162.159.130.235
+japan689.discord.media 162.159.130.235,162.159.138.234,162.159.129.235,162.159.128.235,162.159.137.234
+japan783.discord.media 162.159.138.234,162.159.128.235,162.159.129.235
+japan681.discord.media 162.159.138.234,162.159.128.235,162.159.130.235,162.159.129.235,162.159.137.234
+japan383.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+japan286.discord.media 162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235,162.159.130.235
+japan482.discord.media 162.159.137.234,162.159.138.234,162.159.129.235,162.159.128.235,162.159.130.235
+us-west530.discord.media 162.159.130.235
+us-west131.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west335.discord.media 162.159.138.234,162.159.137.234,162.159.130.235,162.159.128.235,162.159.129.235
+us-west233.discord.media 162.159.128.235,162.159.130.235,162.159.138.234,162.159.129.235
+us-west935.discord.media 162.159.137.234
+us-west731.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+us-west239.discord.media 162.159.128.235,162.159.137.234,162.159.130.235,162.159.129.235,162.159.138.234
+us-west735.discord.media 162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235,162.159.129.235
+us-west439.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.138.234,162.159.137.234
+us-west238.discord.media 162.159.128.235,162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234
+us-west430.discord.media 162.159.138.234,162.159.128.235
+us-west234.discord.media 162.159.129.235,162.159.130.235,162.159.137.234,162.159.138.234,162.159.128.235
+us-west738.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.137.234,162.159.128.235
+us-west536.discord.media 162.159.137.234,162.159.138.234,162.159.130.235,162.159.128.235,162.159.129.235
+us-west937.discord.media 162.159.138.234,162.159.129.235,162.159.130.235,162.159.128.235,162.159.137.234
+us-west434.discord.media 162.159.128.235,162.159.129.235,162.159.137.234,162.159.138.234,162.159.130.235
+us-west632.discord.media 162.159.130.235,162.159.128.235,162.159.137.234,162.159.138.234,162.159.129.235
 ```
