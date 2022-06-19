@@ -2,7 +2,7 @@
 All Discord Vc Servers
 
 # LIST
-
+```
 discord.media
 us-east598.discord.media
 us-south974.discord.media
@@ -2683,3 +2683,4 @@ us-west434.discord.media
 us-west632.discord.media
 us-central7898.discord.media
 stockholm7920.discord.media
+```
